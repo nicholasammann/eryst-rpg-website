@@ -5,9 +5,9 @@ parent: Nations
 ---
 
 
-### Racial Majority: Elven (Wood elves), pixies, sprites
+Racial Majority: Elven (Wood elves), pixies, sprites
 
-### Geography: Thick forest, mixed pine/deciduous
+Geography: Thick forest, mixed pine/deciduous
 
 <br>
 

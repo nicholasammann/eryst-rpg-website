@@ -6,34 +6,160 @@
     
     "relUrl": "/Nations/Ardella.html"
   },"1": {
+    "doc": "Arlesh",
+    "title": "Arlesh",
+    "content": "Racial Majority: Fire giants . Geography: Volcanoes, barren, ash . ",
+    "url": "/eryst-rpg-website/Nations/Arlesh.html",
+    
+    "relUrl": "/Nations/Arlesh.html"
+  },"2": {
+    "doc": "Berski",
+    "title": "Berski",
+    "content": "Racial Majority: Stone giants, Hill giants, Orcs, Goblins . Geography: Hills and mountains . ",
+    "url": "/eryst-rpg-website/Nations/Berski.html",
+    
+    "relUrl": "/Nations/Berski.html"
+  },"3": {
     "doc": "Big Map",
     "title": "Big Map",
     "content": ". ",
     "url": "/eryst-rpg-website/World/BigMap.html",
     
     "relUrl": "/World/BigMap.html"
-  },"2": {
+  },"4": {
+    "doc": "Birschland",
+    "title": "Birschland",
+    "content": "Racial Majority: Halfling . Geography: Lush rolling hills, low forests . ",
+    "url": "/eryst-rpg-website/Nations/Birschland.html",
+    
+    "relUrl": "/Nations/Birschland.html"
+  },"5": {
+    "doc": "Dufastan",
+    "title": "Dufastan",
+    "content": "Racial Majority: Human . Geography: low mountains, farmland . Dufastan is a relatively unremarkable kingdom. It possesses neither the trade wealth of nearby Vitchar, nor the noble lineage and knightly orders of its sister kingdom, Hallangar. A primarily human land, most Dufastanians are farmers, shepherds, or simple crafters. Dufastanians are generally resigned to their position in life and frown upon those who stir up trouble or propose new ideas. Although the culture is industrious and values construction and craft, the people dislike ingenuity or creativity. Those who have a hard time following laws often leave for the thriving ports of Vitchar, where any able-bodied commonfolk can find work as a sailor or at one of the merchant companies. A common person bored with a simple life can pursue a more adventurous career as a soldier in one of the numerous mercenary companies throughout Dufastan. These mercenary companies provide training, housing, and pay for those who agree to serve for a minimum of 4 years. They operate mainly in Hallangar fighting against the Orcs of Gantrik and the various evil peoples of Tierre. Companies that aren’t able to secure a contract with Hallangar may hire out to powerful Vitcharian merchants to act as household or caravan guards, or rarely to the dwarven kingdom of Kursk to aid in their fight against the southern Kyrgann goblins. While Dufastan does not share borders with Gantrik or Tierre, raiding parties from both regions periodically cross into Dufastan when old hunting grounds become stale. Most mercenary companies are responsible for the lands that surround their training grounds, so it falls to those companies to protect the villages on their lands from bandits and raiders. The more honorable and prosperous companies hire builders from nearby towns to construct sturdy fortresses, many of which are large enough for commonfolk to retreat to in times of emergency. Dufastan is ruled by a king, but the monarchy does not directly control most of the region. Instead, Dufastanian kings govern their own fiefdom and delegate rule of other areas to well-known or prosperous mercenary companies. Leaders of these companies act as minor nobles, enforcing (or not enforcing) the law in their controlled lands and pay yearly taxes to the king. ",
+    "url": "/eryst-rpg-website/Nations/Dufastan.html",
+    
+    "relUrl": "/Nations/Dufastan.html"
+  },"6": {
+    "doc": "Estilia",
+    "title": "Estilia",
+    "content": "Racial Majority: Elven (High elves) . Geography: Mediterranean . Estilia is the area containing the city-states of the high elves of Eryst. Each city state is distinct, but they share similar cultural elements. Estilian architecture typically favors white stone, tall towers, and graceful arches. Elves in Estilia place high value on manners – long lives mean long memories, so perceived insults or slights may cause family feuds that last decades. Lineage is important to Estilian elves, and the most important political figures of each city state can trace their bloodline back for generations. Most Estilians desire political power for themselves and their descendants, laying the groundwork for long-term plans and reaping the benefits of plans laid by their ancestors (or paying the price for past plans gone awry). High elves in Estilia give great importance to the arts and the humanities. They respect the classical arts (painting, music, sculpture, etc) as well as philosophy, literature, and music. They have don’t have much respect for craftsman or merchants and a distaste for farming and labor work, considering their culture as having surpassed the need for those occupations. They import most of their food from Dufastan and Hallangar, as well as wine and other luxury items from Vitchar. In return for goods, Estilian elves perform magical services at a high price. Powerful and rich families from other realms hire lesser Estilian politicians to act as impartial judges in important disputes, as high elves are respected, especially in human kingdoms, for their intelligence and ability as politicians. Lastly, traders are required to pay city states for permission to trade in that city (which rich traders are willing to do, given that many magical or unique items can only be found in Estilian cities and fetch high prices elsewhere). ",
+    "url": "/eryst-rpg-website/Nations/Estilia.html",
+    
+    "relUrl": "/Nations/Estilia.html"
+  },"7": {
+    "doc": "Fallona",
+    "title": "Fallona",
+    "content": "Racial Majority: Human . Geography: Farmland, flat, fields of grain . ",
+    "url": "/eryst-rpg-website/Nations/Fallona.html",
+    
+    "relUrl": "/Nations/Fallona.html"
+  },"8": {
+    "doc": "Framstor",
+    "title": "Framstor",
+    "content": "Racial Majority: Dwarven (Hill dwarves) . Geography: Grassy rolling hills . ",
+    "url": "/eryst-rpg-website/Nations/Framstor.html",
+    
+    "relUrl": "/Nations/Framstor.html"
+  },"9": {
+    "doc": "Gantrik",
+    "title": "Gantrik",
+    "content": "Racial Majority: Orcs, Kobolds . Geography: Dry hills, low mountains, lots of ruins . ",
+    "url": "/eryst-rpg-website/Nations/Gantrik.html",
+    
+    "relUrl": "/Nations/Gantrik.html"
+  },"10": {
+    "doc": "Gerlam",
+    "title": "Gerlam",
+    "content": "Racial Majority: Gnomish . Geography: Mountain, forested . ",
+    "url": "/eryst-rpg-website/Nations/Gerlam.html",
+    
+    "relUrl": "/Nations/Gerlam.html"
+  },"11": {
+    "doc": "Grimstokk",
+    "title": "Grimstokk",
+    "content": "Racial Majority: Dwarven (Mountain) . Geography: Mountain fortress, high cliffs . Elite warriors are griffon riders (stocky special ops forces) . ",
+    "url": "/eryst-rpg-website/Nations/Grimstokk.html",
+    
+    "relUrl": "/Nations/Grimstokk.html"
+  },"12": {
+    "doc": "Hallangar",
+    "title": "Hallangar",
+    "content": "Racial Majority: Human/Halfling . Geography: Deciduous forest, hills, mixed geography, temperate . ",
+    "url": "/eryst-rpg-website/Nations/Hallangar.html",
+    
+    "relUrl": "/Nations/Hallangar.html"
+  },"13": {
+    "doc": "Hvammsund",
+    "title": "Hvammsund",
+    "content": "Racial Majority: REDACTED . Geography: Tall peaks . ",
+    "url": "/eryst-rpg-website/Nations/Hvammsund.html",
+    
+    "relUrl": "/Nations/Hvammsund.html"
+  },"14": {
+    "doc": "Kursk",
+    "title": "Kursk",
+    "content": "Racial Majority: Dwarven (Mountain dwarves), Goblins . Geography: Mountain region, rocky, barren . Kursk is defined by war. For centuries, they have fought to push back the goblins that occupy the southern end of the Kyrgann mountain range. They prize quality metalwork, especially weapons and armor crafting. All dwarf children are trained as warriors from a young age and required to serve on the frontlines. Rather than requiring a minimum number of years of service, dwarves must remain on the frontlines until they have killed a minimum number of goblins (the required number changes depending on the state of the war). Kursk is ruled by a queen who has supreme authority – her word is not questioned and she commands total respect. Kurskan dwarves are a matriarchal society, both in their government and family structure. Each established dwarven family is run by a matriarch, the most powerful of which often advise the queen or act as her officers. It is uncommon for male dwarves to hold any positions of power in the Kurskan army, as female dwarves are generally better warriors and shrewd commanders. Most crafters in Kursk focus on weapons, armor, or other martial products, but some spend their time crafting jewelry, ornate furniture, glasswork, elaborate stonework, or other fine goods. These crafters hold lower status in society and justify their pursuits by funding the war effort with profits from exporting their finished works to other regions. Some crafters even choose to leave Kursk completely and move to another region (usually Vitchar) where their craft is more respected. Unless they regularly send money back to Kursk to fund the war, they are considered “dvurkist”, which is most accurately translated as “warped-sword-traitor”, with the cultural context of swords being weapons for weaker races. ",
+    "url": "/eryst-rpg-website/Nations/Kursk.html",
+    
+    "relUrl": "/Nations/Kursk.html"
+  },"15": {
+    "doc": "Nereth",
+    "title": "Nereth",
+    "content": "Racial Majority: Dragonborn . Geography: Tropical, jungle . ",
+    "url": "/eryst-rpg-website/Nations/Nereth.html",
+    
+    "relUrl": "/Nations/Nereth.html"
+  },"16": {
+    "doc": "The Ashen Peaks",
+    "title": "The Ashen Peaks",
+    "content": "Racial Majority: Tiefling . Geography: Tall peaks . ",
+    "url": "/eryst-rpg-website/Nations/The%20Ashen%20Peaks.html",
+    
+    "relUrl": "/Nations/The%20Ashen%20Peaks.html"
+  },"17": {
+    "doc": "The Frozen Isles",
+    "title": "The Frozen Isles",
+    "content": "Racial Majority: White dragons . Geography: Tall peaks . ",
+    "url": "/eryst-rpg-website/Nations/The%20Frozen%20Isles.html",
+    
+    "relUrl": "/Nations/The%20Frozen%20Isles.html"
+  },"18": {
+    "doc": "Tierre",
+    "title": "Tierre",
+    "content": "Racial Majority: Lizardfolk. Bullywugs, Green hags . Geography: Swamp . ",
+    "url": "/eryst-rpg-website/Nations/Tierre.html",
+    
+    "relUrl": "/Nations/Tierre.html"
+  },"19": {
+    "doc": "Vitchar",
+    "title": "Vitchar",
+    "content": "Racial Majority: Human/Half-Elven . Geography: Mediterranean, vineyards, wine country . Vitchar is a coastal nation, one of the few in Eryst that boasts a multi-racial culture. Half-elves and humans live side-by-side in the port cities of Vitchar and control most of the wealth in the region. Wine drives both trade and politics - the wealthiest residents own large estates (usually vineyards) slightly inland in the low hills near the coast. The government is run by the Financial Regent, who is elected by the Merchant’s Guild once every 3 years. The mix of booming trade, lavish wealth, and constant political turmoil naturally attracts crime – indeed, the Thieves Guild has a strong presence in all Vitcharian cities. They provide “protection” for small businesses and hire out to anyone able to pay for their services. Wealthy families looking to secure the position of Financial Regent will often hire the Thieves Guild as election time approaches, using the varied skills of its members to make their political opponents appear weak and incapable of rule. Even the oldest, most established Vitcharian families are merchants at heart and value stability over all else - after all, stability means good trading for those already at the top. Wine is Vitchar’s major export, but their ports boast exotic goods from faraways lands as well as opulent gems and fine metalwork from the Dwarven kingdom of Kursk. Southern Vitcharian cities have a small but healthy market for the more common magical items from Estilia. Blood and wine flow freely on the streets of Vitchar, attracting evil beings with a delight for gluttony, debauchery, and revelry. ",
+    "url": "/eryst-rpg-website/Nations/Vitchar.html",
+    
+    "relUrl": "/Nations/Vitchar.html"
+  },"20": {
     "doc": "Nations",
     "title": "Nations",
     "content": " ",
     "url": "/eryst-rpg-website/Nations/",
     
     "relUrl": "/Nations/"
-  },"3": {
+  },"21": {
     "doc": "Gods and Religion",
     "title": "Gods and Religion",
     "content": "All souls of beings who die on the prime material plane (Eryst) are funneled into the celestial, neutral, or demonic planes depending on which god they worship. If a soul is pledged to a god, the soul will be sent to whichever plane their god is bound to. The pledge can be formed between a soul and a god only by consent from both parties, but once the pledge is formed, the god has complete control over breaking the bond. Souls that are not pledged to a god will be reborn on the prime material plane OR will be sent to the neutral plane, maybe there is a god who takes all souls that are not pledged. If a god moves between planes, all souls bound to that god move with them. So politics between gods impact the souls bound to them. Gods have personalities, agency, and they plot and politic amongst themselves. Gods can be forced from their plane to another plane if they are overpowered by the other gods on their plane. Or they can force their way onto another plane if they are powerful enough. A god has a certain amount of base power granted by a divine spark, but additional (most of) their power is based on how many followers they have and how devout they are. So gods are very invested in what is happening on the prime material plane because they want to increase their followers and decrease the followers of opposing gods. A god can support a number of paladins and clerics baser on their power level. Essentially they can grant power to one person per X number of followers (1000?). So they want to choose carefully who they grant power to, because they’re relying on that person to use the power to protect their followers and/or increase the influence of the religion. ",
     "url": "/eryst-rpg-website/Gods%20and%20Religion/",
     
     "relUrl": "/Gods%20and%20Religion/"
-  },"4": {
+  },"22": {
     "doc": "World",
     "title": "World",
     "content": ". ",
     "url": "/eryst-rpg-website/World/",
     
     "relUrl": "/World/"
-  },"5": {
+  },"23": {
     "doc": "Eryst",
     "title": "Eryst",
     "content": "Documentation for the fantasy world of Eryst. ",
