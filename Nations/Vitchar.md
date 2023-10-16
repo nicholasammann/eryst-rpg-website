@@ -6,7 +6,7 @@ parent: Nations
 
 # Vitchar
 
-![NationMap](../../images/nations/Vitchar.png)
+![NationMap](../images/nations/Vitchar.png)
 
 Racial Majority: Human/Half-Elven
 
