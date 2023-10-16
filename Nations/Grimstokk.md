@@ -4,6 +4,8 @@ layout: page
 parent: Nations
 ---
 
+# Grimstokk
+
 ![NationMap](../images/nations/Grimstokk.png)
 
 Racial Majority: Dwarven (Mountain)

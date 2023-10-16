@@ -4,6 +4,8 @@ layout: page
 parent: Nations
 ---
 
+# Kursk
+
 ![NationMap](../images/nations/Kursk.png)
 
 Racial Majority: Dwarven (Mountain dwarves), Goblins

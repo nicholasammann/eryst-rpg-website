@@ -4,6 +4,8 @@ layout: page
 parent: Nations
 ---
 
+# Birschland
+
 ![NationMap](../images/nations/Birschland.png)
 
 Racial Majority: Halfling

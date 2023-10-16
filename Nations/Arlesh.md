@@ -4,6 +4,8 @@ layout: page
 parent: Nations
 ---
 
+# Arlesh
+
 ![NationMap](../images/nations/Arlesh.png)
 
 Racial Majority: Fire giants

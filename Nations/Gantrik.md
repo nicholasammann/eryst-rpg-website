@@ -4,6 +4,8 @@ layout: page
 parent: Nations
 ---
 
+# Gantrik
+
 ![NationMap](../images/nations/Gantrik.png)
 
 Racial Majority: Orcs, Kobolds

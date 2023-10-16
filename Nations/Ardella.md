@@ -4,6 +4,8 @@ layout: page
 parent: Nations
 ---
 
+# Ardella
+
 ![NationMap](../images/nations/Ardella.png)
 
 Racial Majority: Elven (Wood elves), pixies, sprites

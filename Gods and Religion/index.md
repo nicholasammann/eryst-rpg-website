@@ -1,7 +1,7 @@
 ---
 title: Gods and Religion
 layout: page
-nav_order: 3
+nav_order: 4
 ---
 
 All souls of beings who die on the prime material plane (Eryst) are funneled into the celestial, neutral, or demonic planes depending on which god they worship. If a soul is pledged to a god, the soul will be sent to whichever plane their god is bound to. The pledge can be formed between a soul and a god only by consent from both parties, but once the pledge is formed, the god has complete control over breaking the bond.

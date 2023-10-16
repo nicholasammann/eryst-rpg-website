@@ -4,6 +4,8 @@ layout: page
 parent: Nations
 ---
 
+# Hvammsund
+
 ![NationMap](../images/nations/Hvammsund.png)
 
 Racial Majority: REDACTED

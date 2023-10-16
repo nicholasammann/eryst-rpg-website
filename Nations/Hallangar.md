@@ -4,6 +4,8 @@ layout: page
 parent: Nations
 ---
 
+# Hallangar
+
 ![NationMap](../images/nations/Hallangar.png)
 
 Racial Majority: Human/Halfling

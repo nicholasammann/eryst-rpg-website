@@ -4,6 +4,8 @@ layout: page
 parent: Nations
 ---
 
+# Fallona
+
 ![NationMap](../images/nations/Fallona.png)
 
 Racial Majority: Human

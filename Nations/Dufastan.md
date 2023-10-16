@@ -4,6 +4,8 @@ layout: page
 parent: Nations
 ---
 
+# Dufastan
+
 ![NationMap](../images/nations/Dufastan.png)
 
 Racial Majority: Human

@@ -4,6 +4,8 @@ layout: page
 parent: Nations
 ---
 
+# Estilia
+
 ![NationMap](../images/nations/Estilia.png)
 
 Racial Majority: Elven (High elves)
