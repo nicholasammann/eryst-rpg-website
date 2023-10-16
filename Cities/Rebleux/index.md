@@ -21,6 +21,11 @@ has_children: false
 - Not much timber or stone usable for building 
 
 
+### Surrounding Coast
+
+![CityMap](../../images/cities/rebleux/RebleuxCoastline.jpg)
+
+
 ### Government
 
 - Financial Regent elected by Merchant's Council 
@@ -57,6 +62,9 @@ has_children: false
   9. Employees, laborers
 
 ### Landmarks
+
+- Tower of the Magi
+- Halynn's Square
 
 ![CityMap](../../images/cities/rebleux/HalynnsSquare.jpg)
 
