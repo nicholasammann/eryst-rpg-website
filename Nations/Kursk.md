@@ -4,6 +4,8 @@ layout: page
 parent: Nations
 ---
 
+![NationMap](../images/nations/Kursk.png)
+
 Racial Majority: Dwarven (Mountain dwarves), Goblins
 
 Geography: Mountain region, rocky, barren

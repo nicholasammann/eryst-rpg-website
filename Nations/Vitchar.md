@@ -4,6 +4,8 @@ layout: page
 parent: Nations
 ---
 
+![NationMap](../images/nations/Vitchar.png)
+
 Racial Majority: Human/Half-Elven
 
 Geography: Mediterranean, vineyards, wine country

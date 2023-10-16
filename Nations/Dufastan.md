@@ -4,6 +4,8 @@ layout: page
 parent: Nations
 ---
 
+![NationMap](../images/nations/Dufastan.png)
+
 Racial Majority: Human
 
 Geography: low mountains, farmland

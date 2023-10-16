@@ -4,6 +4,8 @@ layout: page
 parent: Nations
 ---
 
-Racial Majority: Lizardfolk. Bullywugs, Green hags
+![NationMap](../images/nations/Tierre.png)
+
+Racial Majority: Lizardfolk, Bullywugs, Green hags
 
 Geography: Swamp
