@@ -8,7 +8,7 @@ Subterra is the realm of various caverns, tunnels, and deep spaces below the con
 
 Before the First Era, most regions of Subterra had not been explored and much of the realm was home to dangerous wild species and monsters.
 
-During the First Era, as the population of Eryst on the rise, many cultures with a natural affinity for being underground chose to expand their cities in the direction of Subterra. The largest cities now contain a range of surface communities, semi-underground communities, and fully Subterran communities. Smaller settlements were not as capable of the construction and mining required to expand the existing town, and many chose to abandon the surface in favor of a Subterran existence.
+During the First Era, with the population of Eryst on the rise, many cultures with a natural affinity for being underground chose to expand their cities in the direction of Subterra. The largest cities now contain a range of surface communities, semi-underground communities, and fully Subterran communities. Smaller settlements were not as capable of the construction and mining required to expand their existing town, and many chose to abandon the surface in favor of a Subterran existence.
 
 Explorers, map-makers, and adventurers were at the frontlines of the initial expansion into Subterra. As underground regions were explored, outposts were constructed that grew into settlements and eventually towns and cities. And so the wild areas of Subterra were gradually tamed, with much of the natural flora being domesticated and adapted to support the underground communities; mushrooms in particular are a staple for nearly every Subterran.
 
