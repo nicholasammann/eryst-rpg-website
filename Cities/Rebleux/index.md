@@ -9,7 +9,7 @@ has_children: false
 
 ![CityMap](../../images/cities/rebleux/Rebleux.jpg)
 
-![CityMap](../../images/cities/rebleux/RebleuxLocation.jpg)
+![CityMap](../../images/cities/rebleux/RebleuxLocation.png)
 
 - Temperate climate 
 - Diverse town: humans, elves, dwarves, gnomes, halflings, etc 
