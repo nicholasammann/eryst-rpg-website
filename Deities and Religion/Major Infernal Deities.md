@@ -1,8 +1,8 @@
 ---
 title: Major Infernal Deities
 layout: page
-nav_order: 2
-parent: Gods and Religion
+nav_order: 3
+parent: Deities and Religion
 ---
 
 ### Marzomuth

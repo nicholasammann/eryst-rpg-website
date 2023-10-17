@@ -114,23 +114,23 @@
     "doc": "Major Celestial Deities",
     "title": "Major Celestial Deities",
     "content": "Valiri . Justice, honor, order . Baerel . Plant life, growth, creation, mushrooms . Nerani . Preservation, history, music . ",
-    "url": "/eryst-rpg-website/Gods%20and%20Religion/Major%20Celestial%20Deities.html",
+    "url": "/eryst-rpg-website/Deities%20and%20Religion/Major%20Celestial%20Deities.html",
     
-    "relUrl": "/Gods%20and%20Religion/Major%20Celestial%20Deities.html"
+    "relUrl": "/Deities%20and%20Religion/Major%20Celestial%20Deities.html"
   },"17": {
     "doc": "Major Infernal Deities",
     "title": "Major Infernal Deities",
     "content": "Marzomuth . Tyranny, lies, trickery . Druxar . Destruction, secrets . Ezcrototh . Vengeance, undeath . ",
-    "url": "/eryst-rpg-website/Gods%20and%20Religion/Major%20Demonic%20Deities.html",
+    "url": "/eryst-rpg-website/Deities%20and%20Religion/Major%20Infernal%20Deities.html",
     
-    "relUrl": "/Gods%20and%20Religion/Major%20Demonic%20Deities.html"
+    "relUrl": "/Deities%20and%20Religion/Major%20Infernal%20Deities.html"
   },"18": {
     "doc": "Major Neutral Deities",
     "title": "Major Neutral Deities",
     "content": "Malitos . Knowledge, magic . Tarmu . Commerce, luck . Amrott . Crafting, fire . ",
-    "url": "/eryst-rpg-website/Gods%20and%20Religion/Major%20Neutral%20Deities.html",
+    "url": "/eryst-rpg-website/Deities%20and%20Religion/Major%20Neutral%20Deities.html",
     
-    "relUrl": "/Gods%20and%20Religion/Major%20Neutral%20Deities.html"
+    "relUrl": "/Deities%20and%20Religion/Major%20Neutral%20Deities.html"
   },"19": {
     "doc": "Nereth",
     "title": "Nereth",
@@ -146,69 +146,76 @@
     
     "relUrl": "/World/SecondEra.html"
   },"21": {
+    "doc": "Spiritual Planes",
+    "title": "Spiritual Planes",
+    "content": "Spirituality is defined by the relationship between the mortal plane and the three spiritual planes (celestial, neutral, infernal). The continent of Eryst resides on the mortal plane. All souls of beings who die on the mortal plane are sent to the celestial, neutral, or infernal plane depending on which deity they worship. If a soul is pledged to a deity, the soul will be sent to whichever plane their deity is bound to. Souls that are not pledged to a deity are sent to the neutral plane, where they are overseen by a purely neutral deity who rarely chooses to get involved. A pledge can be formed between a soul and a deity only with consent from both parties, but once the pledge is formed, the deity has complete control over breaking the bond. If a deity moves between planes, all souls bound to that deity move with them, so politics between deities impact the souls bound to them. Deities have personalities and agency and they plot and politic amongst themselves. Deities can be forced from their plane to another plane if they are overpowered by the other deities on their plane, and they can force their way onto another plane if they are powerful enough, but this is very difficult and almost never happens. A deity has a base amount of power granted by their divine spark, but most of their power is based on how many followers they have and how devout those followers are. Deities are very invested in what is happening on the prime material plane because they want to increase their followers and decrease the followers of opposing deities. A deity can support a number of paladins and clerics based on their power level. Minor deities can only grant power to a few followers, and even the strongest deities can only empower a few hundred followers at most, so they want to choose carefully. Deities rely on their agents to use their power to protect their followers and increase their influence. ",
+    "url": "/eryst-rpg-website/Deities%20and%20Religion/Spiritual%20Planes.html",
+    
+    "relUrl": "/Deities%20and%20Religion/Spiritual%20Planes.html"
+  },"22": {
     "doc": "The Ashen Peaks",
     "title": "The Ashen Peaks",
     "content": ". Racial Majority: Tiefling . Geography: Tall peaks . ",
     "url": "/eryst-rpg-website/Nations/The%20Ashen%20Peaks.html",
     
     "relUrl": "/Nations/The%20Ashen%20Peaks.html"
-  },"22": {
+  },"23": {
     "doc": "The Frozen Isles",
     "title": "The Frozen Isles",
     "content": ". Racial Majority: White dragons . Geography: Tall peaks . ",
     "url": "/eryst-rpg-website/Nations/The%20Frozen%20Isles.html",
     
     "relUrl": "/Nations/The%20Frozen%20Isles.html"
-  },"23": {
+  },"24": {
     "doc": "Tierre",
     "title": "Tierre",
     "content": ". Racial Majority: Lizardfolk, Bullywugs, Green hags . Geography: Swamp . ",
     "url": "/eryst-rpg-website/Nations/Tierre.html",
     
     "relUrl": "/Nations/Tierre.html"
-  },"24": {
+  },"25": {
     "doc": "Vitchar",
     "title": "Vitchar",
     "content": ". Racial Majority: Human/Half-Elven . Geography: Mediterranean, vineyards, wine country . Vitchar is a coastal nation, one of the few in Eryst that boasts a multi-racial culture. Half-elves and humans live side-by-side in the port cities of Vitchar and control most of the wealth in the region. Wine drives both trade and politics - the wealthiest residents own large estates (usually vineyards) slightly inland in the low hills near the coast. The government is run by the Financial Regent, who is elected by the Merchant’s Guild once every 3 years. The mix of booming trade, lavish wealth, and constant political turmoil naturally attracts crime – indeed, the Thieves Guild has a strong presence in all Vitcharian cities. They provide “protection” for small businesses and hire out to anyone able to pay for their services. Wealthy families looking to secure the position of Financial Regent will often hire the Thieves Guild as election time approaches, using the varied skills of its members to make their political opponents appear weak and incapable of rule. Even the oldest, most established Vitcharian families are merchants at heart and value stability over all else - after all, stability means good trading for those already at the top. Wine is Vitchar’s major export, but their ports boast exotic goods from faraways lands as well as opulent gems and fine metalwork from the Dwarven kingdom of Kursk. Southern Vitcharian cities have a small but healthy market for the more common magical items from Estilia. Blood and wine flow freely on the streets of Vitchar, attracting evil beings with a delight for gluttony, debauchery, and revelry. ",
     "url": "/eryst-rpg-website/Nations/Vitchar.html",
     
     "relUrl": "/Nations/Vitchar.html"
-  },"25": {
+  },"26": {
     "doc": "Nations",
     "title": "Nations",
     "content": " ",
     "url": "/eryst-rpg-website/Nations/",
     
     "relUrl": "/Nations/"
-  },"26": {
+  },"27": {
     "doc": "Rebleux",
     "title": "Rebleux",
     "content": ". | Temperate climate | Diverse town: humans, elves, dwarves, gnomes, halflings, etc | Sewers and secret tunnels running underneath the city | . Surrounding Area . | Rolling hills, vineyards, nearby mountains | Vineyards and estates owned by merchant houses | Metal deposits in hills | Not much timber or stone usable for building | . Surrounding Coast . Government . | Financial Regent elected by Merchant’s Council | Merchant’s Council (merchants from prominent houses) are in charge of making laws and acting as a court of judges for matters they deem important | Justicars oversee any contract, business deal, or formal agreement (anytime papers are signed). Also anytime someone is employed. New businesses must be approved or they cannot do business (repossesed if this law is broken). | . Law . | Guard captain controls all guards. | Guard undercaptains oversee sections of the city. | Squad leaders are responsible for squads. | Standard guards patrol and keep the peace. | . Trade . Exports . | Wine | Weapons | Mechanical toys, gadgets, and curios | . Imports . | Food | Building materials (wood, stone) | . Social Heirarchy . | Financial Regent | Council of most powerful merchants | Merchants with established houses | Healers | Mages | Clanless merchants | Shopowners, crafters | Guards, mercenaries | Employees, laborers | . Landmarks . | Tower of the Magi | Halynn’s Square | . Neighborhood Maps . ",
     "url": "/eryst-rpg-website/Cities/Rebleux/",
     
     "relUrl": "/Cities/Rebleux/"
-  },"27": {
+  },"28": {
     "doc": "Cities",
     "title": "Cities",
     "content": " ",
     "url": "/eryst-rpg-website/Cities/",
     
     "relUrl": "/Cities/"
-  },"28": {
-    "doc": "Gods and Religion",
-    "title": "Gods and Religion",
-    "content": "All souls of beings who die on the prime material plane (Eryst) are funneled into the celestial, neutral, or infernal planes depending on which god they worship. If a soul is pledged to a god, the soul will be sent to whichever plane their god is bound to. The pledge can be formed between a soul and a god only by consent from both parties, but once the pledge is formed, the god has complete control over breaking the bond. Souls that are not pledged to a god will be reborn on the prime material plane OR will be sent to the neutral plane, maybe there is a god who takes all souls that are not pledged. If a god moves between planes, all souls bound to that god move with them. So politics between gods impact the souls bound to them. Gods have personalities, agency, and they plot and politic amongst themselves. Gods can be forced from their plane to another plane if they are overpowered by the other gods on their plane. Or they can force their way onto another plane if they are powerful enough. A god has a certain amount of base power granted by a divine spark, but additional (most of) their power is based on how many followers they have and how devout they are. So gods are very invested in what is happening on the prime material plane because they want to increase their followers and decrease the followers of opposing gods. A god can support a number of paladins and clerics baser on their power level. Essentially they can grant power to one person per X number of followers (1000?). So they want to choose carefully who they grant power to, because they’re relying on that person to use the power to protect their followers and/or increase the influence of the religion. ",
-    "url": "/eryst-rpg-website/Gods%20and%20Religion/",
-    
-    "relUrl": "/Gods%20and%20Religion/"
   },"29": {
+    "doc": "Deities and Religion",
+    "title": "Deities and Religion",
+    "content": " ",
+    "url": "/eryst-rpg-website/Deities%20and%20Religion/",
+    
+    "relUrl": "/Deities%20and%20Religion/"
+  },"30": {
     "doc": "World",
     "title": "World",
     "content": ". ",
     "url": "/eryst-rpg-website/World/",
     
     "relUrl": "/World/"
-  },"30": {
+  },"31": {
     "doc": "Eryst",
     "title": "Eryst",
     "content": "Documentation for the fantasy world of Eryst. ",

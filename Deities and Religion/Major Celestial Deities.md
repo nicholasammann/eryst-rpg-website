@@ -1,8 +1,8 @@
 ---
 title: Major Celestial Deities
 layout: page
-nav_order: 0
-parent: Gods and Religion
+nav_order: 1
+parent: Deities and Religion
 ---
 
 ### Valiri
