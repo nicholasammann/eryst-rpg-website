@@ -5,13 +5,11 @@ nav_order: 1
 parent: Gods and Religion
 ---
 
-### Deity #1 
-Themes: Knowledge, magic
+### Malitos
+Knowledge, magic
 
+### Tarmu
+Commerce, luck
 
-### Deity #2 
-Themes: Commerce, luck
-
-
-### Deity #3 
-Themes: Crafting, fire
+### Amrott
+Crafting, fire

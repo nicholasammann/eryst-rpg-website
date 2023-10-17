@@ -5,14 +5,11 @@ nav_order: 0
 parent: Gods and Religion
 ---
 
-### Deity #1 
-Themes: Justice, Order, Honor
+### Valiri
+Justice, honor, order
 
+### Baerel
+Plant life, growth, creation, mushrooms
 
-### Deity #2 
-Themes: Plant life, growth, creation
-
-
-### Deity #3 
-Themes: Preservation, history, music
-
+### Nerani
+Preservation, history, music

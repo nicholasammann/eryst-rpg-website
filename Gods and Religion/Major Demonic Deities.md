@@ -1,20 +1,15 @@
 ---
-title: Major Demonic Deities
+title: Major Infernal Deities
 layout: page
 nav_order: 2
 parent: Gods and Religion
 ---
 
-### Deity #1 
-Themes: Tyranny, lies, trickery
+### Marzomuth
+Tyranny, lies, trickery
 
+### Druxar 
+Destruction, secrets
 
-### Deity #2 
-Themes: Destruction, secrets
-
-
-### Deity #3 
-Themes: Vengeance, undeath
-
-
-
+### Ezcrototh 
+Vengeance, undeath
