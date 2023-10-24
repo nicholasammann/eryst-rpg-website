@@ -1,4 +1,8 @@
-# Twin Trees
+---
+title: Twin Trees
+layout: page
+parent: Campaign
+---
 
 ![TownMap](../images/cities/twintrees/TwinTrees.jpg)
 
