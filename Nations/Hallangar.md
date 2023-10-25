@@ -10,4 +10,4 @@ parent: Nations
 
 Racial Majority: Human/Halfling
 
-Geography: Deciduous forest, hills, mixed geography, temperate 
+Geography: Deciduous forest, hills, mixed geography, temperate
