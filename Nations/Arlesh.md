@@ -18,4 +18,4 @@ Due to their affinity with fire, heat is incorporated into crafting for most fir
 
 So Amrott raised three volcanoes across the land of Arlesh, made the caverns beneath the stone plains rich with all types of metal ore, created great trees to match the size of his followers, and made great mountains of flawless stone of all varieties.
 
-Blessed with an abundance of natural resources, and raw magma to fuel their massive forces, the fire giants have built truly remarkable cities of stone and metal that surpass even the dwarven cities of the continent. Isolated from the conflict of the continent, with only the tumultuous land of Berski to the north posing no threat, fire giants have been able to focus solely on their crafts for centuries.
+Blessed with an abundance of natural resources and raw magma to fuel their massive forges, the fire giants built truly remarkable cities of stone and metal that surpass even the dwarven cities of the continent. Isolated from the conflict of the continent, with only the tumultuous land of Berski to the north posing no threat, fire giants have been able to focus solely on their crafts for centuries.
