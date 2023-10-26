@@ -10,7 +10,7 @@ parent: Nations
 
 Racial Majority: Fire giants
 
-Geography: Volcanoes, barren, ash
+Geography: Volcanoes, great trees, stone quarries
 
 Before the First Era, when deities could interact more directly with the material plane, the deity Amrott sculpted the land of Arlesh into a home for the fire giants, who have long worshipped him with great fervor. Their culture is dedicated to crafting and each fire giant chooses a craft upon reaching adulthood.
 
