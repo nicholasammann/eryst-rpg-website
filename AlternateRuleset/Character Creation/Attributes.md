@@ -19,27 +19,36 @@ Rolling for stats:
 2d4 + 5
 
 
-Constitution
-Modifier added to HP every level up
-Physical exhaustion = 1 hour + modifier * 10 minutes
+| Attribute | Description |
+|---|---|
+| Constitution | Physical robustness. |
+| Strength | Physical strength. |
+| Dexterity | Physical finesse. |
+| Charisma | Ability to influence the world around you with personality or communication. |
+| Intelligence | Ability to comprehend, understand complex ideas, and solve logical problems. |
+| Wisdom | Intuition, instinct, insight. |
+| Memory | Ability to recall an amount of information with a degree of clarity. |
+| Willpower | Discipline of thought and the mind. Ability to channel an amount or potency of magical or divine energy. |
 
-Strength
-STR weapon damage modifier
 
-Dexterity
-DEX weapon damage modifier
+### Constitution
+Modifier added to HP every level up. Physical exhaustion = 1 hour + modifier * 10 minutes
 
-Charisma
+### Strength
+Flat damage modifier for strength weapons.
+
+### Dexterity
+Flat damage modifier for dexterity weapons.
+
+### Charisma
 Modifier affects social skills
 
-Intelligence
+### Intelligence
 
+### Wisdom
 
-Wisdom
-
-
-Memory
+### Memory
 Memory pool = 10 + modifier
 
-Willpower
+### Willpower
 Mental exhaustion = 10 points + modifier * 4

@@ -22,7 +22,7 @@
   },"3": {
     "doc": "Attributes",
     "title": "Attributes",
-    "content": "Characters have numbers representing physical and mental attributes. Default attribute value for an adult humanoid is 10 Max value for any attribute is 20 . All values over 10 are +1 . | 11 = +1, 12 = +2, 15 = +5, … All values under 10 are -1 | 9 = -1, 7 = -3, 4 = -6, … | . Rolling for stats: 2d4 + 5 . Constitution Modifier added to HP every level up Physical exhaustion = 1 hour + modifier * 10 minutes . Strength STR weapon damage modifier . Dexterity DEX weapon damage modifier . Charisma Modifier affects social skills . Intelligence . Wisdom . Memory Memory pool = 10 + modifier . Willpower Mental exhaustion = 10 points + modifier * 4 . ",
+    "content": "Characters have numbers representing physical and mental attributes. Default attribute value for an adult humanoid is 10 Max value for any attribute is 20 . All values over 10 are +1 . | 11 = +1, 12 = +2, 15 = +5, … All values under 10 are -1 | 9 = -1, 7 = -3, 4 = -6, … | . Rolling for stats: 2d4 + 5 . | Attribute | Description | . | Constitution | Physical robustness. | . | Strength | Physical strength. | . | Dexterity | Physical finesse. | . | Charisma | Ability to influence the world around you with personality or communication. | . | Intelligence | Ability to comprehend, understand complex ideas, and solve logical problems. | . | Wisdom | Intuition, instinct, insight. | . | Memory | Ability to recall an amount of information with a degree of clarity. | . | Willpower | Discipline of thought and the mind. Ability to channel an amount or potency of magical or divine energy. | . Constitution . Modifier added to HP every level up. Physical exhaustion = 1 hour + modifier * 10 minutes . Strength . Flat damage modifier for strength weapons. Dexterity . Flat damage modifier for dexterity weapons. Charisma . Modifier affects social skills . Intelligence . Wisdom . Memory . Memory pool = 10 + modifier . Willpower . Mental exhaustion = 10 points + modifier * 4 . ",
     "url": "/eryst-rpg-website/AlternateRuleset/Character%20Creation/Attributes.html",
     
     "relUrl": "/AlternateRuleset/Character%20Creation/Attributes.html"
@@ -337,7 +337,7 @@
   },"48": {
     "doc": "Skills",
     "title": "Skills",
-    "content": "Skills represent the ability to . | do something because of understanding and/or experience | use something because of understanding and/or experience | understand something because of natural affinity or experience | recall knowledge because of good memory, personal experience, or time spent learning | . Skill ranks . | Novice | Adept | Expert | Master | Grandmaster | . Skill rolls use a d10 + skill proficiency dice Each level of proficiency adds 1d4 to your roll. ",
+    "content": "Skills represent the ability to . | do something because of understanding and/or experience | use something because of understanding and/or experience | understand something because of natural affinity or experience | recall knowledge because of good memory, personal experience, or time spent learning | . Skill ranks . | Novice | Adept | Expert | Master | Grandmaster | . Skill rolls use a d10 + skill proficiency dice. Each level of proficiency adds 1d4 to your roll. ",
     "url": "/eryst-rpg-website/AlternateRuleset/Character%20Creation/Skills.html",
     
     "relUrl": "/AlternateRuleset/Character%20Creation/Skills.html"
@@ -414,7 +414,7 @@
   },"59": {
     "doc": "Traits",
     "title": "Affinity Traits",
-    "content": "| Name | Description | Prerequisites | . | Elemental Resistance | You gain resistance to an elemental damage type. | None | . | Natural Weapon | You have claws, long teeth, spikes, or a similar physical feature that can be used as an improvised weapon. Choose a damage type of either piercing, slashing, or bludgeoning. | None | . | Elven Heritage |   |   | . | Dwarven Heritage |   |   | . | Orcish Heritage |   |   | . | Faerie Heritage |   |   | . |   |   |   | . |   |   |   | . |   |   |   | . ",
+    "content": "| Name | Description | Prerequisites | . | Human Bloodline | Apply +1 to Charisma and Willpower. | — | . | Halfling Bloodline | Apply +1 to Dexterity and Willpower. | — | . | High Elven Bloodline | Apply +1 to Intelligence and Memory. | — | . | Wood Elven Bloodline | Apply +1 to Dexterity and Wisdom. | — | . | Dwarven Bloodline | Apply +1 to Strength and Willpower. | — | . | Draconic Bloodline | Apply +1 to Charisma and Willpower. | — | . | Tiefling Bloodline | Apply +1 to Charisma and Willpower. | — | . | Orcish Bloodline | Apply +1 to Constitution and Wisdom. | — | . | Faerie Bloodline | Apply -1 to Constitution, +1 to Intelligence, +1 to Wisdom, and +1 to Memory. | — | . | Elemental Resistance | You gain resistance to an elemental damage type. | — | . | Natural Weapon | You have claws, long teeth, spikes, or a similar physical feature that can be used as an improvised weapon with base damage of 1d4. Choose a damage type of either piercing, slashing, or bludgeoning. | — | . |   |   |   | . |   |   |   | . |   |   |   | . ",
     "url": "/eryst-rpg-website/AlternateRuleset/Character%20Creation/Traits.html#affinity-traits",
     
     "relUrl": "/AlternateRuleset/Character%20Creation/Traits.html#affinity-traits"

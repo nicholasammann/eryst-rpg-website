@@ -36,12 +36,17 @@ You can only acquire a trait once unless explicitly marked.
 
 | Name | Description | Prerequisites |
 |---|---|---|
-| Elemental Resistance | You gain resistance to an elemental damage type. | None |
-| Natural Weapon | You have claws, long teeth, spikes, or a similar physical feature that can be used as an improvised weapon. Choose a damage type of either piercing, slashing, or bludgeoning. | None |
-| Elven Heritage |   |   |
-| Dwarven Heritage |   |   |
-| Orcish Heritage |   |   |
-| Faerie Heritage |   |   |
+| Human Bloodline | Apply +1 to Charisma and Willpower. | --- |
+| Halfling Bloodline | Apply +1 to Dexterity and Willpower. | --- |
+| High Elven Bloodline | Apply +1 to Intelligence and Memory. | --- |
+| Wood Elven Bloodline | Apply +1 to Dexterity and Wisdom. | --- |
+| Dwarven Bloodline | Apply +1 to Strength and Willpower. | --- |
+| Draconic Bloodline | Apply +1 to Charisma and Willpower. | --- |
+| Tiefling Bloodline | Apply +1 to Charisma and Willpower. | --- |
+| Orcish Bloodline | Apply +1 to Constitution and Wisdom. | --- |
+| Faerie Bloodline | Apply -1 to Constitution, +1 to Intelligence, +1 to Wisdom, and +1 to Memory. | --- |
+| Elemental Resistance | You gain resistance to an elemental damage type. | --- |
+| Natural Weapon | You have claws, long teeth, spikes, or a similar physical feature that can be used as an improvised weapon with base damage of 1d4. Choose a damage type of either piercing, slashing, or bludgeoning. | --- |
 |   |   |   |
 |   |   |   |
 |   |   |   |

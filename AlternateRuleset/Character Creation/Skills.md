@@ -19,7 +19,8 @@ grand_parent: Alternate Ruleset
   - Master
   - Grandmaster
 
-Skill rolls use a d10 + skill proficiency dice 
+Skill rolls use a d10 + skill proficiency dice. 
+
 Each level of proficiency adds 1d4 to your roll. 
 
 
