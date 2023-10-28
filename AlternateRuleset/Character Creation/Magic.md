@@ -5,8 +5,10 @@ parent: Character Creation
 grand_parent: Alternate Ruleset
 ---
 
-## School of Flame
-### Novice Spells
+## School of Flame 
+
+### Novice Spells 
+
 | Name | Description | Damage | Range |
 |---|---|---|---|
 | Fire Bolt | You conjure a small bolt of fire that shoots toward your target. | 1d6 | 40ft |
