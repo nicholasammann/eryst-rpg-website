@@ -79,7 +79,7 @@ Each level of proficiency adds 1d4 to your roll.
 ### Physical skills 
   - Perception
   - Coordination
-  - Jumping
+  - Agility
   - Lifting
   - Pickpocketing
   - Lockpicking
@@ -87,6 +87,7 @@ Each level of proficiency adds 1d4 to your roll.
 
 ### Social skills 
   - Persuasion
+  - Insight
   - Intimidation
   - Deception
   - Inspiration

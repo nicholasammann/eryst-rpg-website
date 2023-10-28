@@ -6,14 +6,14 @@ grand_parent: Alternate Ruleset
 ---
 
 All character modifications are traits that represent
-  - Natural affinity
+  - Natural affinity, physical/mental pre-disposition, or physical/mental feature.
   - Investment of time
     - Personal experience
     - Learning
   - Impactful event
 
 Traits are therefore categorized as:
-  - Affinity Traits
+  - Natural Traits
   - Experience Traits
   - Event Traits
 
@@ -32,7 +32,7 @@ Traits can have prerequisites
 You can only acquire a trait once per level up. 
 You can only acquire a trait once unless explicitly marked.
 
-## Affinity Traits
+## Natural Traits
 
 | Name | Description | Prerequisites |
 |---|---|---|
@@ -45,11 +45,19 @@ You can only acquire a trait once unless explicitly marked.
 | Tiefling Bloodline | Apply +1 to Dexterity and Charisma. | --- |
 | Orcish Bloodline | Apply +1 to Constitution and Wisdom. | --- |
 | Faerie Bloodline | Apply -1 to Constitution, +1 to Intelligence, +1 to Wisdom, and +1 to Memory. | --- |
+| Brawny Ancestors | Apply +1 to Strength and Constitution. | --- |
+| Nimble Ancestors | Apply +2 to Dexterity. | --- |
+| Charismatic Ancestors | Apply +1 to Charisma and Willpower. | --- |
+| Clever Ancestors | Apply +1 to Intelligence and Memory. | --- |
+| Wise Ancestors | Apply +1 to Wisdom and Memory. | --- |
+| Draconic Ancestors | You gain a breath attack of an elemental damage type with damage of (Willpower modifier)d6. | --- |
 | Elemental Resistance | You gain resistance to an elemental damage type. | --- |
 | Natural Weapon | You have claws, long teeth, spikes, or a similar physical feature that can be used as an improvised weapon with base damage of 1d4. Choose a damage type of either piercing, slashing, or bludgeoning. | --- |
-|   |   |   |
-|   |   |   |
-|   |   |   |
+| Winged Ancestors | You have wings. You gain the ability to fly at half (rounded up) of your normal walking speed. Apply -2 to Constitution due to the reduced density of your bones. | --- |
+| Natural Perception | You have exceptional eyesight and hearing. You gain the Adept rank in Perception. | --- |
+| Subterran Ancestors | You gain the ability to see normally in semi-darkness. | --- |
+| Symbrachydactyly | You were born with one hand and grew up accomplishing all tasks single-handedly. You gain the Adept rank in Coordination. | --- |
+
 
 ## Experience Traits
 
@@ -67,8 +75,6 @@ You can only acquire a trait once unless explicitly marked.
 | Expert Combat Training | You gain the Expert rank for a combat skill of your choice. | Level 5 | Can be acquired multiple times. |
 | Master Combat Training | You gain the Master rank for a combat skill of your choice. | Level 8 | Can be acquired multiple times. |
 | Grandmaster Combat Training | You gain the Grandmaster rank for a combat skill of your choice. | Level 10 | --- |
-
-
 
 | Novice Alchemist | You gain the Novice rank in the Alchemist occupation. | --- | --- |
 | Adept Alchemist | You gain the Adept rank in the Alchemist occupation. | --- | --- |
@@ -191,7 +197,7 @@ You can only acquire a trait once unless explicitly marked.
 
 | Name | Description | Prerequisites |
 |---|---|---|
-|   |   |   |
+| You lose |   |   |
 |   |   |   |
 |   |   |   |
 |   |   |   |

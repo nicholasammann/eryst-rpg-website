@@ -10,7 +10,7 @@ grand_parent: Alternate Ruleset
 | Constitution | Physical robustness. |
 | Strength | Physical strength. |
 | Dexterity | Physical finesse. |
-| Charisma | Ability to influence the world around you with personality or communication. |
+| Charisma | Ability to influence the world around you with personality, spirit, or communication. |
 | Intelligence | Ability to comprehend, understand complex ideas, and solve logical problems. |
 | Wisdom | Intuition, instinct, insight. |
 | Memory | Ability to recall an amount of information with a degree of clarity. |
