@@ -13,7 +13,7 @@ grand_parent: Alternate Ruleset
 
 
 ### Skill ranks
-  - Beginner
+  - Novice
   - Adept
   - Expert
   - Master
@@ -37,31 +37,32 @@ Each level of proficiency adds 1d4 to your roll.
   - Bows
   - Crossbows
   - Throwing weapons
+  - Unarmed combat
 
 ### Occupations 
-  - Painter
-  - Thief
-  - Woodworker
-  - Cook
-  - Leatherworker
-  - Mason
-  - Potter
-  - Smith
-  - Weaver
-  - Glassblower
   - Alchemist
+  - Banker
   - Brewer
   - Cartographer
+  - Cook
   - Farmer
-  - Scholar
-  - Jeweler
-  - Herbalist
-  - Navigator
   - Forger
   - Gambler
+  - Glassblower
+  - Herbalist
+  - Jeweler
+  - Leatherworker
+  - Mason
   - Merchant
-  - Banker
+  - Navigator
+  - Painter
+  - Potter
+  - Scholar
   - Shepherd
+  - Smith
+  - Thief
+  - Weaver
+  - Woodworker
 
 ### Schools of Magic 
   - Fire
