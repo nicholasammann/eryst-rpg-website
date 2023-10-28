@@ -197,7 +197,7 @@ You can only acquire a trait once unless explicitly marked.
 
 | Name | Description | Prerequisites |
 |---|---|---|
-| You lose |   |   |
+|   |   |   |
 |   |   |   |
 |   |   |   |
 |   |   |   |
