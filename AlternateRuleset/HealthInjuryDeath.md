@@ -1,4 +1,8 @@
-
+---
+title: Health, Injury, Death
+layout: page
+parent: Alternate Ruleset
+---
 
 Every character has a pool of hit points:
 
