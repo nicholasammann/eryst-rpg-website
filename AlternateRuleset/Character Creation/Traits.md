@@ -41,8 +41,8 @@ You can only acquire a trait once unless explicitly marked.
 | High Elven Bloodline | Apply +1 to Intelligence and Memory. | --- |
 | Wood Elven Bloodline | Apply +1 to Dexterity and Wisdom. | --- |
 | Dwarven Bloodline | Apply +1 to Strength and Willpower. | --- |
-| Draconic Bloodline | Apply +1 to Charisma and Willpower. | --- |
-| Tiefling Bloodline | Apply +1 to Charisma and Willpower. | --- |
+| Draconic Bloodline | Apply +1 to Wisdom and Willpower. | --- |
+| Tiefling Bloodline | Apply +1 to Dexterity and Charisma. | --- |
 | Orcish Bloodline | Apply +1 to Constitution and Wisdom. | --- |
 | Faerie Bloodline | Apply -1 to Constitution, +1 to Intelligence, +1 to Wisdom, and +1 to Memory. | --- |
 | Elemental Resistance | You gain resistance to an elemental damage type. | --- |
