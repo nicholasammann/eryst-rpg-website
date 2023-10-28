@@ -76,7 +76,7 @@ Each level of proficiency adds 1d4 to your roll.
 
 ### Physical skills 
   - Perception
-  - Hand/eye coordination
+  - Coordination
   - Jumping
   - Lifting
   - Pickpocketing

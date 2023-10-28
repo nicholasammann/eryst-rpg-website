@@ -323,7 +323,7 @@
   },"46": {
     "doc": "Skills",
     "title": "Skill List",
-    "content": "Combat skills . | Daggers | Staves | Swords | Greatswords | Axes | Greataxes | Clubs, maces, hammers | Greathammers | Flails | Bows | Crossbows | Throwing weapons | . Occupations . | Painter | Thief | Woodworker | Cook | Leatherworker | Mason | Potter | Smith | Weaver | Glassblower | Alchemist | Brewer | Cartographer | Farmer | Scholar | Jeweler | Herbalist | Navigator | Forger | Gambler | Merchant | Banker | Shepherd | . Schools of Magic . | Fire | Water | Air | Stone | Summoning | Transformation | Illusion | Necromancy | Divination | . Physical skills . | Perception | Hand/eye coordination | Jumping | Lifting | Pickpocketing | Lockpicking | Sneaking | . Social skills . | Persuasion | Intimidation | Deception | Inspiration | Animal handling | Bartering | Conversation | . Mental skills . | Literacy/reading comprehension | History | Mathematics | Engineering | Logic/reasoning | Problem solving | Alchemy | Medicine | . ",
+    "content": "Combat skills . | Daggers | Staves | Swords | Greatswords | Axes | Greataxes | Clubs, maces, hammers | Greathammers | Flails | Bows | Crossbows | Throwing weapons | . Occupations . | Painter | Thief | Woodworker | Cook | Leatherworker | Mason | Potter | Smith | Weaver | Glassblower | Alchemist | Brewer | Cartographer | Farmer | Scholar | Jeweler | Herbalist | Navigator | Forger | Gambler | Merchant | Banker | Shepherd | . Schools of Magic . | Fire | Water | Air | Stone | Summoning | Transformation | Illusion | Necromancy | Divination | . Physical skills . | Perception | Coordination | Jumping | Lifting | Pickpocketing | Lockpicking | Sneaking | . Social skills . | Persuasion | Intimidation | Deception | Inspiration | Animal handling | Bartering | Conversation | . Mental skills . | Literacy/reading comprehension | History | Mathematics | Engineering | Logic/reasoning | Problem solving | Alchemy | Medicine | . ",
     "url": "/eryst-rpg-website/AlternateRuleset/Character%20Creation/Skills.html#skill-list",
     
     "relUrl": "/AlternateRuleset/Character%20Creation/Skills.html#skill-list"
@@ -407,7 +407,7 @@
   },"58": {
     "doc": "Traits",
     "title": "Traits",
-    "content": "All character modifications are traits that represent . | Natural affinity | Investment of time . | Personal experience | Learning | . | Impactful event | . Traits are the reason your character can: . | Learn a new skill | Improve an existing skill | Improve a physical or mental attribute | . Traits can have prerequisites . | Minimum attribute | Minimum skill level | Another trait already taken | . ",
+    "content": "All character modifications are traits that represent . | Natural affinity | Investment of time . | Personal experience | Learning | . | Impactful event | . Traits are therefore categorized as: . | Affinity Traits | Experience Traits | Event Traits | . Traits are the reason your character can: . | Learn a new skill | Improve an existing skill | Improve a physical or mental attribute | Explain an inherent ability, physical feature, or mental feature | Undergo a sudden physical or mental change | . Traits can have prerequisites . | Minimum attribute | Minimum skill level | Another trait already taken | . ",
     "url": "/eryst-rpg-website/AlternateRuleset/Character%20Creation/Traits.html",
     
     "relUrl": "/AlternateRuleset/Character%20Creation/Traits.html"

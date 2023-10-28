@@ -12,10 +12,17 @@ All character modifications are traits that represent
     - Learning
   - Impactful event
 
+Traits are therefore categorized as:
+  - Affinity Traits
+  - Experience Traits
+  - Event Traits
+
 Traits are the reason your character can:
   - Learn a new skill
   - Improve an existing skill
   - Improve a physical or mental attribute
+  - Explain an inherent ability, physical feature, or mental feature
+  - Undergo a sudden physical or mental change
 
 Traits can have prerequisites
   - Minimum attribute
