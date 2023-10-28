@@ -5,6 +5,17 @@ parent: Character Creation
 grand_parent: Alternate Ruleset
 ---
 
+| Attribute | Description |
+|---|---|
+| Constitution | Physical robustness. |
+| Strength | Physical strength. |
+| Dexterity | Physical finesse. |
+| Charisma | Ability to influence the world around you with personality or communication. |
+| Intelligence | Ability to comprehend, understand complex ideas, and solve logical problems. |
+| Wisdom | Intuition, instinct, insight. |
+| Memory | Ability to recall an amount of information with a degree of clarity. |
+| Willpower | Discipline of thought and the mind. Ability to channel an amount or potency of magical or divine energy. |
+
 Characters have numbers representing physical and mental attributes.
 
 Default attribute value for an adult humanoid is 10
@@ -17,19 +28,6 @@ All values under 10 are -1
 
 Rolling for stats:
 2d4 + 5
-
-
-| Attribute | Description |
-|---|---|
-| Constitution | Physical robustness. |
-| Strength | Physical strength. |
-| Dexterity | Physical finesse. |
-| Charisma | Ability to influence the world around you with personality or communication. |
-| Intelligence | Ability to comprehend, understand complex ideas, and solve logical problems. |
-| Wisdom | Intuition, instinct, insight. |
-| Memory | Ability to recall an amount of information with a degree of clarity. |
-| Willpower | Discipline of thought and the mind. Ability to channel an amount or potency of magical or divine energy. |
-
 
 ### Constitution
 Modifier added to HP every level up. Physical exhaustion = 1 hour + modifier * 10 minutes
