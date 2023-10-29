@@ -5,6 +5,8 @@ parent: Character Creation
 grand_parent: TTRPG Ruleset
 ---
 
+# Attributes
+
 | Attribute | Description |
 |---|---|
 | Constitution | Physical robustness. |

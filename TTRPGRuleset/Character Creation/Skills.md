@@ -5,6 +5,8 @@ parent: Character Creation
 grand_parent: TTRPG Ruleset
 ---
 
+# Skills
+
 ### Skills represent the ability to
   - do something because of understanding and/or experience
   - use something because of understanding and/or experience

@@ -5,6 +5,8 @@ parent: Character Creation
 grand_parent: TTRPG Ruleset
 ---
 
+# Traits
+
 All character modifications are traits that represent
   - Natural affinity, physical/mental pre-disposition, or physical/mental feature.
   - Investment of time
