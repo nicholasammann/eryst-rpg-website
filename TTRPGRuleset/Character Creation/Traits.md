@@ -55,7 +55,7 @@ You can only acquire a trait once unless explicitly marked.
 | Draconic Ancestors | You gain a breath attack of an elemental damage type with damage of (Willpower modifier)d6. | --- |
 | Elemental Resistance | You gain resistance to an elemental damage type. | --- |
 | Natural Weapon | You have claws, long teeth, spikes, or a similar physical feature that can be used as an improvised weapon with base damage of 1d4. Choose a damage type of either piercing, slashing, or bludgeoning. | --- |
-| Winged Ancestors | You have wings. You gain the ability to fly at half (rounded up) of your normal walking speed. Apply -2 to Constitution due to the reduced density of your bones. | --- |
+| Winged Ancestors | You have wings. You gain the ability to fly with a speed of 20ft per action. Apply -2 to Constitution due to the reduced density of your bones. | --- |
 | Natural Perception | You have exceptional eyesight and hearing. You gain the Adept rank in Perception. | --- |
 | Subterran Ancestors | You gain the ability to see normally in semi-darkness. | --- |
 | Symbrachydactyly | You were born with one hand and grew up accomplishing all tasks single-handedly. You gain the Adept rank in Coordination. | --- |
