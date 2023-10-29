@@ -5,6 +5,10 @@ parent: Character Creation
 grand_parent: Alternate Ruleset
 ---
 
+## Laws of Magic
+
+You can attempt to cast a spell that requires more magical energy than you currently possess. There is a significant chance that you will fail to cast the spell. For every X points of magical energy the spell requires that you do not possess, there is X percent chance of failure. Roll a d100 to determine if you succeed or fail. Regardless of the outcome, you gain the status "Magical Exhaustion 1". Magical Exhaustion 1 applies -2 to your Willpower and lasts for 7 days. For every rank of Magical Exhaustion about 1, double the effect of the previous rank.
+
 ## School of Flame 
 
 ### Novice Spells 
