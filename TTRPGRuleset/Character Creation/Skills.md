@@ -2,7 +2,7 @@
 title: Skills
 layout: page
 parent: Character Creation
-grand_parent: Alternate Ruleset
+grand_parent: TTRPG Ruleset
 ---
 
 ### Skills represent the ability to

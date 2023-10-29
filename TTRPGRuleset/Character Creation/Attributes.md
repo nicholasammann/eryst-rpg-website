@@ -2,7 +2,7 @@
 title: Attributes
 layout: page
 parent: Character Creation
-grand_parent: Alternate Ruleset
+grand_parent: TTRPG Ruleset
 ---
 
 | Attribute | Description |

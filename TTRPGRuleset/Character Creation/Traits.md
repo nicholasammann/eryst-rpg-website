@@ -2,7 +2,7 @@
 title: Traits
 layout: page
 parent: Character Creation
-grand_parent: Alternate Ruleset
+grand_parent: TTRPG Ruleset
 ---
 
 All character modifications are traits that represent

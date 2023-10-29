@@ -1,8 +1,9 @@
 ---
 title: Character Creation
 layout: page
-parent: Alternate Ruleset
+parent: TTRPG Ruleset
 has_children: true
+nav_order: 0
 ---
 
 1. Roll for starting attribute pool

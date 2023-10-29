@@ -1,7 +1,7 @@
 ---
 title: Actions
 layout: page
-parent: Alternate Ruleset
+parent: TTRPG Ruleset
 ---
 
 6 actions per turn

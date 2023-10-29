@@ -2,7 +2,7 @@
 title: Life Experience
 layout: page
 parent: Character Creation
-grand_parent: Alternate Ruleset
+grand_parent: TTRPG Ruleset
 ---
 
 Each Life Experience type is a combination of 3 Experience traits and 1 Event trait.

@@ -1,7 +1,7 @@
 ---
 title: Health, Injury, Death
 layout: page
-parent: Alternate Ruleset
+parent: TTRPG Ruleset
 ---
 
 Every character has a pool of hit points:
