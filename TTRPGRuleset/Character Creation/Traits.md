@@ -46,7 +46,6 @@ You can only acquire a trait once unless explicitly marked.
 | Draconic Bloodline | Apply +1 to Wisdom and Willpower. | --- |
 | Orcish Bloodline | Apply +1 to Constitution and Wisdom. | --- |
 | Faerie Bloodline | Apply -1 to Constitution, +1 to Intelligence, +1 to Wisdom, and +1 to Memory. | --- |
-| Infernal Bloodline | Apply -1 to Charisma, +1 to Wisdom, +1 to Memory, and +1 to Willpower. | --- |
 | Demonic Bloodline | Apply -2 to Intelligence, +1 to Strength, +1 to Dexterity, +1 to Willpower. | --- |
 | Brawny Ancestors | Apply +1 to Strength and Constitution. | --- |
 | Nimble Ancestors | Apply +2 to Dexterity. | --- |
