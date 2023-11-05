@@ -68,41 +68,42 @@ Each level of proficiency adds 1d4 to your roll.
   - Woodworker
 
 ### Schools of Magic 
-  - Fire
-  - Water
-  - Air
-  - Stone
+  - Evocation
   - Summoning
   - Transformation
   - Illusion
-  - Necromancy
   - Divination
+  - Necromancy
 
 ### Physical skills 
-  - Perception
+  - Acrobatics
   - Coordination
-  - Agility
   - Lifting
-  - Pickpocketing
   - Lockpicking
-  - Sneaking
+  - Perception
+  - Pickpocketing
+  - Stealth
+  - Swimming
 
 ### Social skills 
-  - Persuasion
-  - Insight
-  - Intimidation
-  - Deception
-  - Inspiration
   - Animal handling
   - Bartering
   - Conversation
+  - Deception
+  - Insight
+  - Inspiration
+  - Intimidation
+  - Persuasion
+  - Streetwise
 
-### Mental skills 
-  - Literacy/reading comprehension
-  - History
-  - Mathematics
-  - Engineering
-  - Logic/reasoning
-  - Problem solving
+### Studied skills 
   - Alchemy
+  - Arcana
+  - Engineering
+  - History
+  - Linguistics
+  - Logic
+  - Mathematics
   - Medicine
+  - Nature
+  - Religion
