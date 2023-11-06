@@ -6,15 +6,15 @@ parent: World
 
 The Faerie Realm and the Abyssal Realm are locked in a never ending battle. The Abyssal Realm and the Fey Plane are strongly connected. 
 
-The Faerie Realm represents nature and the Abyssal Realm represents toxic industrialization. 
-
-The Faerie Realm is tied to water, air, earth, plants, and animals. The Abyssal Realm is tied to fire, metal, and poison. Demons are always trying to encroach on the faerie and the faerie are always trying to push back the demons.
+The Faerie Realm represents nature and is tied to water, air, earth, plants, and animals. Demons are always trying to encroach on the faerie and the faerie are always trying to push back the demons.
 
 The Faerie Realm is permeated with magic and completely overgrown with natural life. Homes and other buildings are grown and incorporated into fantastically large trees, mushrooms, cacti, or other plants. The realm has different laws of physics and magic works differently there. Actions that people from the material plane would consider unremarkable could represent agreement or a form of transaction and could create types of binding magical contracts. In the Faerie Realm, promises are inherently binding and there are repercussions for breaking them.
 
 There are two main humanoid races of the Faerie Realm: the Raynaerie and the Lunaerie.
 
-The Raynaerie are medium-sized humanoid creatures with large butterfly wings. They have hollow bones of a material different than normal bones. They have strong immune systems and a strong constitution regarding poison, disease, venom, and other bodily influences, but they are physically more fragile than a human or elf of the same size.
+The Raynaerie are medium-sized humanoid creatures with large butterfly wings. They have hollow bones of a light translucent crystal. They have strong immune systems and a strong constitution regarding poison, disease, venom, and other bodily influences, but they are physically more fragile than a human or elf of the same size.
+
+The Lunaerie are small-sized humanoid creatures with large moth wings. They have bones made of a wood-like material and bark-like skin. Different subraces of Lunaerie can be differentiated by their varying skin types, from rough pine bark to smooth willow bark to papery, shedding birch bark.
 
 Faerie culture is very different in terms of morality and law and the rules of society. It's very hard for races from the material plane to understand the minds of faerie creatures. Some elements of faerie society might seem evil or cruel, but are natural and normal to the faerie. Actions that may seem courteous, polite, generous, or good hearted in the material plane may offend faerie creatures or seem evil or cruel to them.
 
