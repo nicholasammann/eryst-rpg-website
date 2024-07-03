@@ -49,6 +49,7 @@ Each level of proficiency adds 1d4 to your roll.
   - Cartographer
   - Cook
   - Farmer
+  - Fletcher
   - Forger
   - Gambler
   - Glassblower
