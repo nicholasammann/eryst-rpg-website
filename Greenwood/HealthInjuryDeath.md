@@ -1,11 +1,11 @@
 ---
-title: Health, Injury, Death
+title: Character Defense
 layout: page
 parent: Greenwood
 ---
 
 Every character has a pool of hit points:
-Hit points = 3 x Constitution
+Hit points = 4 x Constitution
 
 When a character reaches 0 HP, they are knocked prone, gain the status 'downed', and gain the status 'wounded'. An unconscious character cannot take any actions.
 

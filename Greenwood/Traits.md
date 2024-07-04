@@ -40,17 +40,20 @@ Traits can have prerequisites:
 | Charismatic Ancestors | Apply +2 to Charisma. | --- |
 | Clever Ancestors | Apply +2 to Intelligence. | --- |
 | Wise Ancestors | Apply +2 to Wisdom. | --- |
-| Natural Weapon | You have claws, long teeth, spikes, or a similar physical feature that can be used as an improvised weapon with base damage of 1d4. Choose a damage type of either piercing, slashing, or bludgeoning. | --- |
+| Natural Weapon | You have claws, long teeth, spikes, or any physical feature that can be used as an improvised weapon. Unarmed attacks deal 1d4 damage. | --- |
 | Protective Exterior | You have scales, tough skin, carapace, or a similar defensive layer. Reduce any physical damage taken by 1 point. | --- |
-| Winged Ancestors | You have wings. You gain the ability to fly with a speed of 20ft per action. Apply -2 to Constitution due to the reduced density of your bones. | --- |
+| Winged Ancestors | You have wings. You gain the ability to fly with a speed of 20ft per action. Apply -1 to Constitution due to the reduced density of your bones. | --- |
+| Underground Ancestors | You gain the ability to see normally in semi-darkness. | --- |
 | Keen Perception | You have exceptional eyesight and hearing. You gain the Adept rank in Perception. | --- |
-| Subterran Ancestors | You gain the ability to see normally in semi-darkness. | --- |
+| Skilled Climber | You are a natural climber. You gain the Adept rank in Climbing. | --- |
+| Born Swimmer | You are a natural swimmer. You gain the Adept rank in Swimming. | --- |
+| Natural Skill Affinity | Gain the Adept rank in any skill. | --- |
 
 
 ## Experience Traits
 
 | Name | Description | Notes |
-|---|---|---|---|
+|---|---|---|
 | Improved Constitution | You gain +1 to Constitution. | --- |
 | Strength Conditioning | You gain +1 to Strength. | --- |
 | Dexterous Training | You gain +1 to Dexterity. | --- |
