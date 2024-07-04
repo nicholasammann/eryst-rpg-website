@@ -20,16 +20,12 @@ Characters have numbers representing physical and mental attributes.
 Each attribute has a starting value of 5.
 
 ### Constitution
-Modifier added to HP every level up. Physical exhaustion = 1 hour + modifier * 10 minutes
 
 ### Strength
-Flat damage modifier for strength weapons.
 
 ### Dexterity
-Flat damage modifier for dexterity weapons.
 
 ### Charisma
-Modifier affects social skills
 
 ### Intelligence
 

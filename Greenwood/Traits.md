@@ -58,7 +58,7 @@ Traits can have prerequisites:
 | Strength Conditioning | You gain +1 to Strength. | --- |
 | Dexterous Training | You gain +1 to Dexterity. | --- |
 | Charismatic Rehearsal | You gain +1 to Charisma. | --- |
-| Scholarly Intellect | You gain +1 to Intelligence. | --- |
+| Scholarly Study | You gain +1 to Intelligence. | --- |
 | Cultivation of Wisdom | You gain +1 to Wisdom. | --- |
 | Skill Training | Increase your rank in any skill. | Cannot be taken multiple times for the same skill during the same level-up. |
 

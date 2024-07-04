@@ -61,7 +61,7 @@ Required Strength: 6
 | Standard Attack | Attack a nearby creature for 1d4 hit points. | Novice | 1 |
 | Concussing Blow | Once per fight, attack a nearby creature for 1d4 hit points. If the attack hits, the targeted creature can only take 1 action on its next turn. | Novice | 1 |
 | Bludgeoning Attack | Once per turn, attack a nearby creature for 1d4 hit points. Ignore any damage reduction from natural or crafted armor. | Adept | 1 |
-| FILL IN |  | Adept | 1 |
+| Heavy Strike | Once per fight, attack a creature for 1d4 + 4 | Adept | 1 |
 | Wind-Up Blow | Once per turn, attack a nearby creature for 3d4 hit points. | Expert | 2 |
 | Stunning Smash | Once per fight, attack a nearby creature for 2d4 hit points. If the attack hits, the targeted creature takes no actions on its next turn. | Expert | 1 |
 
@@ -212,11 +212,14 @@ Required Dexterity: 6
 
 ---
 
-## Sources of Magic
+## Mystical Powers
 
-### Myth (Buff yourself)
+### Mythological Patron
+- Heal
+- Buff self
+- Strategic buffs
 
-You gain the ability to channel the power of a mythological figure. This can be a famous warrior, healer, or leader.
+You gain the ability to channel the power of a mythological figure. This could be a famous warrior, healer, or leader from history.
 
 | Title | Description | Rank | Action Cost |
 |---|---|---|---|
@@ -228,22 +231,58 @@ You gain the ability to channel the power of a mythological figure. This can be 
 | Mythical Weaponcraft | Once per fight, you channel your patron's legendary skill with weapons. Your attack cannot miss and deals 2x the maximum possible damage. | Expert | --- |
 
 
-### Nature (Elemental magic)
+### Nature's Blessing
+- Damage
+- Controller
+- Defensive/Offensive shape shift
 
 You have the blessing of a spirit of nature. You gain powers appropriate to your nature spirit.
+Some options could be:
+- A semi-elemental theme based on a landscape:
+  - Desert (sand, wind)
+  - Forest (plant, earth)
+  - Grassland (plant, wind)
+  - Ocean (water, storm)
+  - River (water)
+  - Tundra (ice, wind)
+  - Volcano (fire, rock)
+- A once-powerful creature whose spirit still resides in their home territory:
+  - Bear
+  - Bison
+  - Eagle
+  - Elephant
+  - Owl
+  - Pike
+  - Shark
+  - Snake
+  - Tiger
+  - Whale
 
 | Title | Description | Rank | Action Cost |
 |---|---|---|---|
 | Spirit Familiar | You gain a small creature or spirit thematically appropriate to your chosen spirit as a companion. | Novice | --- |
 | Nature's Attack | You manipulate a nearby part of nature (thematically appropriate to your chosen spirit) to attack a nearby creature for 1d6 damage. | Novice | 1 |
-| Mythical Shape | You gain the ability to shapeshift into a form thematically appropriate to your chosen spirit. Your alternate form must be no less than half and no greater than 1.5x your regular size. You can spend 1 action to revert the effect. | Adept | 1 |
-| Nature's Barrage | Once per fight, you can manipulate a nearby part of nature (thematically appropriate to your chosen spirit) to attack 3 nearby creatures for 1d6 damage each. | Adept | 1 |
-| Mythical Blessing | You can temporarily change the shape of an allied creature to a form thematically appropriate to your chosen spirit. Your alternate form must be no less than half and no greater than 1.5x your regular size. This lasts for 1 hour or until you spend 1 action to revert the effect. | Expert | 1 |
+| Spirit Shape | You gain the ability to shapeshift into a form thematically appropriate to your chosen spirit. Your alternate form must be no less than half and no greater than 1.5x your regular size. You can spend 1 action to revert the effect. | Adept | 1 |
+| Nature's Barrage | Once per fight, you can manipulate a nearby part of nature (thematically appropriate to your chosen spirit) to attack 4 nearby creatures for 1d6 damage each. | Adept | 1 |
+| Spirit's Ally | You can temporarily change the shape of an allied creature to a form thematically appropriate to your chosen spirit. Your alternate form must be no less than half and no greater than 1.5x your regular size. This lasts for 1 hour or until you spend 1 action to revert the effect. | Expert | 1 |
 | Nature's Wrath | Once per fight, manipulate a large natural element in the vicinity (thematically appropriate to your chosen spirit) to attack a creature. If the attack hits, the targeted creature takes 6d6 damage. If the attack misses, the targeted creature takes 4d6 damage. | Expert | 1 |
 
-### Story (Buff others)
+### Storyteller
+- Summoner
+- Enchanter
 
-You are inspired by a fictional creature from a story. By sharing the story, you have the ability to inspire your companions.
+You are inspired by a fictional creature from a story. You can bring creatures or objects from your stories to life to assist you in battle. Outside of combat, you can tell stories about objects (weapons, armor, or other) to grant them a permanent magical effect.
+
+| Title | Description | Rank | Action Cost |
+|---|---|---|---|
+|  |  | Novice | --- |
+
+### Fortuneteller
+- Buff allies
+- Debuff enemies
+- Information
+
+You pretend to (or perhaps, you can?) divine events that have yet to happen. Your keen insight can discern combat-related information about enemies. You can inspire allies by building up their confidence with predictions of good fortune. You can warn your allies of bad fortune ahead of time to increase their chances of avoiding danger.
 
 | Title | Description | Rank | Action Cost |
 |---|---|---|---|
