@@ -47,7 +47,7 @@ Traits can have prerequisites:
 | Keen Perception | You have exceptional eyesight and hearing. You gain the Adept rank in Perception. | --- |
 | Skilled Climber | You are a natural climber. You gain the Adept rank in Climbing. | --- |
 | Born Swimmer | You are a natural swimmer. You gain the Adept rank in Swimming. | --- |
-| Natural Skill Affinity | Gain the Adept rank in any skill. | --- |
+| Natural Skill Affinity | Gain the Adept rank in any Physical skill. | --- |
 
 
 ## Experience Traits
