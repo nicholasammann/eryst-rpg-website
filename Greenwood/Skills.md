@@ -117,7 +117,7 @@ Required Strength: 9
 | Wide Sweep | Once per turn, attack two nearby creatures for 1d10 hit points. | Adept | 1 |
 | Heavy Blow | Once per turn, attack a nearby creature for 1d10 hit points. Ignore any damage reduction from natural or crafted armor. | Adept | 1 |
 | Pulverizing Strike | Once per fight, attack a nearby creature for 2d10 hit points. | Expert | 1 |
-| Stunning Blow | Once per fight, attack a nearby creature for 1d10 hit points. If the attack hits, the creature is stunned for a number of actions depending on damage dealt. 1-3 points of damage = 2 actions. 4-7 points of damage = 3 actions. 8-10 points of damage = 4 actions. | Expert | 1 |
+| Stunning Blow | Once per fight, attack a nearby creature for 1d10 hit points. If the attack hits, the creature is stunned for a number of actions depending on damage dealt.<br> 1-3 points of damage = 2 actions.<br> 4-7 points of damage = 3 actions.<br> 8-10 points of damage = 4 actions. | Expert | 1 |
 
 ### Greatswords
 
@@ -126,11 +126,6 @@ Required Strength: 8
 | Title | Description | Rank | Action Cost |
 |---|---|---|---|
 | Standard Attack | Attack a nearby creature for 1d8 hit points. | Novice | 1 |
-| Standard Attack | Attack a nearby creature for 1d6+1 hit points. | Novice | 1 |
-| Standard Attack | Attack a nearby creature for 1d6+1 hit points. | Adept | 1 |
-| Standard Attack | Attack a nearby creature for 1d6+1 hit points. | Adept | 1 |
-| Standard Attack | Attack a nearby creature for 1d6+1 hit points. | Expert | 1 |
-| Standard Attack | Attack a nearby creature for 1d6+1 hit points. | Expert | 1 |
 
 ### Greataxes
 
@@ -139,11 +134,6 @@ Required Strength: 8
 | Title | Description | Rank | Action Cost |
 |---|---|---|---|
 | Standard Attack | Attack a nearby creature for 1d8 hit points. | Novice | 1 |
-| Standard Attack | Attack a nearby creature for 1d6+1 hit points. | Novice | 1 |
-| Standard Attack | Attack a nearby creature for 1d6+1 hit points. | Adept | 1 |
-| Standard Attack | Attack a nearby creature for 1d6+1 hit points. | Adept | 1 |
-| Standard Attack | Attack a nearby creature for 1d6+1 hit points. | Expert | 1 |
-| Standard Attack | Attack a nearby creature for 1d6+1 hit points. | Expert | 1 |
 
 ### Bows
 
@@ -153,11 +143,6 @@ Required Dexterity: 6
 | Title | Description | Rank | Action Cost |
 |---|---|---|---|
 | Standard Attack | Attack a creature you can see for 1d6 hit points. | Novice | 1 |
-| Standard Attack | Attack a nearby creature for 1d6+1 hit points. | Novice | 1 |
-| Standard Attack | Attack a nearby creature for 1d6+1 hit points. | Adept | 1 |
-| Standard Attack | Attack a nearby creature for 1d6+1 hit points. | Adept | 1 |
-| Standard Attack | Attack a nearby creature for 1d6+1 hit points. | Expert | 1 |
-| Standard Attack | Attack a nearby creature for 1d6+1 hit points. | Expert | 1 |
 
 ### Crossbows
 
@@ -166,22 +151,12 @@ Required Dexterity: 6
 | Title | Description | Rank | Action Cost |
 |---|---|---|---|
 | Standard Attack | Attack a creature you can see for 1d8 hit points. | Novice | 2 |
-| Standard Attack | Attack a nearby creature for 1d6+1 hit points. | Novice | 1 |
-| Standard Attack | Attack a nearby creature for 1d6+1 hit points. | Adept | 1 |
-| Standard Attack | Attack a nearby creature for 1d6+1 hit points. | Adept | 1 |
-| Standard Attack | Attack a nearby creature for 1d6+1 hit points. | Expert | 1 |
-| Standard Attack | Attack a nearby creature for 1d6+1 hit points. | Expert | 1 |
 
 ### Unarmed Combat
 
 | Title | Description | Rank | Action Cost |
 |---|---|---|---|
 | Standard Attack | If attacking with bare paws, attack a nearby creature for 2 hit points. If instead you have the Natural Weapon trait, attack for 1d4 + 1 hit points.| Novice | 1 |
-| Standard Attack | Attack a nearby creature for 1d6+1 hit points. | Novice | 1 |
-| Standard Attack | Attack a nearby creature for 1d6+1 hit points. | Adept | 1 |
-| Standard Attack | Attack a nearby creature for 1d6+1 hit points. | Adept | 1 |
-| Standard Attack | Attack a nearby creature for 1d6+1 hit points. | Expert | 1 |
-| Standard Attack | Attack a nearby creature for 1d6+1 hit points. | Expert | 1 |
 
 ---
 
