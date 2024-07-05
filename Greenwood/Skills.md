@@ -154,15 +154,28 @@ Required Strength: 8
 | Title | Description | Rank | Action Cost |
 |---|---|---|---|
 | Standard Attack | Attack a nearby creature for 1d8+1 hit points. | Novice | 1 |
+| Cleaving Strike | Once per fight, attack a nearby creature for 1d8+8 hit points. | Novice | 1 |
+| Shield Chop | Once per fight, attack a nearby creature holding a light or heavy shield. The shield is damaged and can no longer be used. | Adept | 1 |
+| Heavy Attack | Once per turn, attack a nearby creature for 1d8+4 hit points. | Adept | 1 |
+| Armor Hew | Once per fight, attack a nearby creature for 2d8+2 hit points. If the attack hits, the targeted creature's armor is damaged and loses 3 point of damage reduction. | Expert | 1 |
+| Sundering Strike | Once per fight, attack a nearby creature for 2d8+2 hit points. If the attack hits, it damages one of the targeted creature's limbs. If a limb holding a weapon is targeted, the Combat skill used by the creature to make attacks is reduced by 3 ranks until the end of the fight. If a limb used for movement is targeted, the target cannot move until the end of the fight. | Expert | 1 |
 
 ### Bows
 
 Required Strength: 6\
 Required Dexterity: 6
 
+Attacks made with this weapon against a creature within melee range receive a -4 penalty to the attack roll.
+
 | Title | Description | Rank | Action Cost |
 |---|---|---|---|
 | Standard Attack | Attack a creature you can see for 1d6 hit points. | Novice | 1 |
+| Pinning Shot | Attack a creature you can see for 1d4 hit points, hitting an area that impairs their movement. If the attack hits, the creature is unable to move until spending 1 action to remove the arrow. | Adept | 1 |
+| Double Shot | Once per turn, attack two creatures you can see for 1d6 hit points. | Adept | 1 |
+| Piercing Shot | Attack a creature you can see for 1d6 hit points, firing an arrow with a bodkin point. If the attack hits, it ignores 2 points of damage reduction from armor or Protective Exterior. | Adept | 1 |
+| Multishot | Once per turn, make 2 standard attacks. | Expert | 1 |
+| Calculated Shot | Anticipate a creature's evasive movement and adjust your shot accordingly. Attack a creature you can see for 1d6 hit points, adding 2d4 to your attack roll. | Expert | 2 |
+
 
 ### Crossbows
 
@@ -170,21 +183,42 @@ Required Dexterity: 6
 
 | Title | Description | Rank | Action Cost |
 |---|---|---|---|
-| Standard Attack | Attack a creature you can see for 1d8 hit points. | Novice | 2 |
+| Load Bolt | Load your crossbow with a standard bolt that does 1d8 hit points of damage. | Novice | 1 |
+| Standard Attack | Attack a creature you can see for hit points determined by the loaded bolt. Your crossbow must be loaded before taking this action. | Novice | 1 |
+| Load Heavy Bolt | Load your crossbow with a heavy bolt that does 1d10 hit points of damage. | Adept | 1 |
+| Load Blunt Bolt | Load your crossbow with a blunt bolt that does 1d8 hit points of damage and stuns the target for 1 action when it hits. | Adept | 1 |
+| Load Serrated Bolt | Load your crossbow with a serrated bolt that does 1d8 hit points of damage. The target takes 8 points of damage at the end of its next turn. | Expert | 1 |
+| Calculated Shot | Attack a creature you can see for hit points determined by the loaded bolt. Add 2d4 to your attack roll. Your crossbow must be loaded before taking this action. | Novice | 2 |
 
 ### Slings
 
 Required Dexterity: 6
 
+Attacks made with this weapon against a creature within melee range receive a -4 penalty to the attack roll.
+
 | Title | Description | Rank | Action Cost |
 |---|---|---|---|
-| Standard Attack | Attack a creature you can see for 1d6 hit points. | Novice | 2 |
+| Standard Attack | Attack a creature you can see for 1d6 hit points. | Novice | 1 |
+| Melee Attack | Attack a nearby creature for 1d6 hit points. This attack does not receive a -4 penalty to the attack roll against creatures in melee range. | Novice | 1 |
+| Concussive Shot | Attack a creature you can see for 1d8 hit points, aiming for their head. This attack receives a -2 penalty to the attack roll, but stuns the creature for 1 action if it hits. | Adept | 1 |
+| Blunt Strike | Attack a nearby creature for 1d6 hit points. Ignore 1 point of damage reduction. This attack does not receive a -4 penalty to the attack roll against creatures in melee range. | Adept | 1 |
+| Stunning Strike | Attack a nearby creature for 1d10 hit points, aiming for their head. This attack receives a -2 penalty to the attack roll, but stuns the creature for 2 actions if it hits. This attack does not receive a -4 penalty to the attack roll against creatures in melee range. | Expert | 1 |
+| Disarming Shot | Attack a creature you can see for 1d6 hit points. This attack receives a -2 penalty to the attack roll, but the targeted creature drops their weapon (if wielding two weapons, they drop one weapon of your choice) if the attack hits. | Expert | 1 |
 
 ### Unarmed Combat
 
+Unarmed Damage: If attacking with bare paws, your unarmed attacks deal 2 points of damage. If you have the Natural Weapon trait, your unarmed attacks deal 1d4 + 1 points of damage.
+
 | Title | Description | Rank | Action Cost |
 |---|---|---|---|
-| Standard Attack | If attacking with bare paws, attack a nearby creature for 2 hit points. If instead you have the Natural Weapon trait, attack for 1d4 + 1 hit points.| Novice | 1 |
+| Standard Attack | Attack a nearby creature for Unarmed Damage. | Novice | 1 |
+| Fundamental Footwork | Once per day, you can focus your attention on evasive footwork during a fight. Until the end of the fight, attacks targeting you take a -1 penalty to the attack roll. | Novice | --- |
+| Haymaker | Three times per fight, attack a nearby creature for 2x Unarmed Damage. | Adept | 1 |
+| Bob and Weave | Once per turn, focus on leaning your body to avoid attacks. Until the start of your next turn, attacks targeting you take a -4 penalty to the attack roll.  | Adept | 1 |
+| Uppercut | Three times per fight, if you make a successful Standard Attack with your first action, you can make another Standard Attack with your second action that deals an additional 2 damage. | Adept | 1 |
+| Counterpunch | Three times per fight, when a creature attacks you and misses, you can use Standard Attack or Haymaker with no action cost. Your attack roll automatically succeeds. | Expert | --- |
+| Iron Paw | Your paws are seasoned weapons. If attacking with bare paws, your unarmed attacks deal 1d4 + 3 points of damage. If you have the Natural Weapon trait, you unarmed attacks deal 1d4 + 4 points of damage. | Expert | 1 |
+| The Noble Art | Once per day, choose an opponent you can see and challenge them to face you in unarmed combat. If they accept your challenge, no other creature may interfere with your fight. If they refuse your challenge, they receive -6 to attack rolls for the remainder of the day. | Expert | 1 |
 
 ---
 
