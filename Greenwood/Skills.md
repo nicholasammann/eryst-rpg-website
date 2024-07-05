@@ -37,8 +37,22 @@ Required Dexterity: 5
 | Sweeping Attack | Once per turn, attack two nearby creatures for 1d4 hit points. | Novice | 1 |
 | Defensive Stance | Once per turn, you can use an action to take a defensive stance that lasts until the start of your next turn. You can reduce the damage of up to 3 attacks made against you by 6 points each. | Adept | 1 |
 | Pole Vault | You can use your stave to vault for twice your normal jump distance. | Adept | 1 |
+| Stunning Blow | Once per fight, attack a nearby creature for 1d4 hit points. If the attack hits, the targeted creature can only take 1 action on its next turn. | Adept | 1 |
 | Multiattack | Once per fight, you can devote your entire turn to making a flurry of attacks. Make 4 standard attacks. | Expert | 2 |
 | Long Reach | Once per turn, you can make an attack while holding onto the very end of your stave. Make a standard attack with double the normal reach. | Expert | 1 |
+
+### Spear
+
+Required Dexterity: 5
+
+| Title | Description | Rank | Action Cost |
+|---|---|---|---|
+| Standard Attack | Attack a nearby creature for 1d6 hit points. | Novice | 1 |
+| Sweeping Attack | Once per turn, attack two nearby creatures for 1d6 hit points. | Novice | 1 |
+| Piercing Strike | Once per fight, attack a nearby creature for 1d6 hit points. If the attack hits, the creature takes an additional 6 damage at the end of its next turn. | Adept | 1 |
+| Vigilant Stance | Once per turn, you can use an action to prepare for incoming enemies. Until the start of your next turn, you can make an attack against up to 2 enemies that move within melee range. | Adept | 1 |
+| Vital Strike | Once per fight, attack a nearby creature for 3d6 hit points, striking at a vital region. | Expert | 1 |
+| Long Reach | Once per turn, you can make an attack while holding onto the very end of your spear. Make a standard attack with double the normal reach. | Expert | 1 |
 
 ### Daggers
 
@@ -51,6 +65,7 @@ Required Dexterity: 6
 | Quick Attacks | Once per turn, you can make two quick attacks. Attack a nearby creature for 2d4 hit points. | Adept | 1 |
 | Knife Thrower | You've learned how to throw your dagger accurately. Attack a creature within throwing distance for 1d4 hit points. If another dagger is within easy reach, you can draw or pick it up as part of this action. | Adept | 1 |
 | Piercing Attack | Once per fight, you can inflict an especially deep wound on a nearby creature. Attack a nearby creature for 1d6 hit points. If the attack hits, the targeted creature takes 1d4 damage until they spend 2 actions to bandage the wound. | Expert | 2 |
+| Rapid Attacks | Once per fight, you can make 4 quick attacks. Attack a nearby creature for 4d4 hit points. | Expert | 1 |
 
 ### Clubs, Maces, Hammers
 
@@ -112,12 +127,12 @@ Required Strength: 9
 
 | Title | Description | Rank | Action Cost |
 |---|---|---|---|
-| Standard Attack | Attack a nearby creature for 1d10 hit points. | Novice | 1 |
-| Concussive Slam | Once per fight, attack 2 nearby creatures that are standing next to each other for 1d10 hit points. Each creature the attack hits can only take 1 action on their next turn. | Novice | 2 |
-| Wide Sweep | Once per turn, attack two nearby creatures for 1d10 hit points. | Adept | 1 |
-| Heavy Blow | Once per turn, attack a nearby creature for 1d10 hit points. Ignore any damage reduction from natural or crafted armor. | Adept | 1 |
-| Pulverizing Strike | Once per fight, attack a nearby creature for 2d10 hit points. | Expert | 1 |
-| Stunning Blow | Once per fight, attack a nearby creature for 1d10 hit points. If the attack hits, the creature is stunned for a number of actions depending on damage dealt.<br> 1-3 points of damage = 2 actions.<br> 4-7 points of damage = 3 actions.<br> 8-10 points of damage = 4 actions. | Expert | 1 |
+| Standard Attack | Attack a nearby creature for 1d8 hit points. | Novice | 1 |
+| Concussive Slam | Once per fight, attack 2 nearby creatures that are standing next to each other for 1d8 hit points. Each creature the attack hits can only take 1 action on their next turn. | Novice | 2 |
+| Wide Sweep | Once per turn, attack two nearby creatures for 1d8 hit points. | Adept | 1 |
+| Heavy Blow | Once per turn, attack a nearby creature for 1d8 hit points. Ignore any damage reduction from natural or crafted armor. | Adept | 1 |
+| Pulverizing Strike | Once per fight, attack a nearby creature for 2d8 hit points. | Expert | 1 |
+| Stunning Blow | Once per fight, attack a nearby creature for 2d8 hit points. If the attack hits, the creature is stunned for a number of actions depending on damage dealt.<br> 1-2 points of damage = 2 actions.<br> 3-4 points of damage = 3 actions.<br> 5-8 points of damage = 4 actions. | Expert | 1 |
 
 ### Greatswords
 
@@ -126,6 +141,11 @@ Required Strength: 8
 | Title | Description | Rank | Action Cost |
 |---|---|---|---|
 | Standard Attack | Attack a nearby creature for 1d8 hit points. | Novice | 1 |
+| Spinning Attack | Once per fight, attack 3 nearby creature for 1d8 hit points. | Novice | 2 |
+| Intimidating Display | Once per fight, attack a nearby creature for 1d8 hit points. Choose 3 nearby creatures that each have less than 24 hit points.  | Adept | 1 |
+| Aimed Strike | Once per turn, attack a nearby creature for 1d8+4 hit points. Add an extra 1d4 to your attack roll. | Adept | 1 |
+| Circle of Steel | Once per fight, attack 5 nearby creature for 1d8 hit points. | Expert | 2 |
+| Disarming Strike | Once per fight, attack a nearby creature for 1d8 hit points. If the attack hits, the targeted creature drops their weapon (if wielding two weapons, they drop both). They must spend 1 action to pick up each dropped weapon. | Expert | 1 |
 
 ### Greataxes
 
@@ -133,7 +153,7 @@ Required Strength: 8
 
 | Title | Description | Rank | Action Cost |
 |---|---|---|---|
-| Standard Attack | Attack a nearby creature for 1d8 hit points. | Novice | 1 |
+| Standard Attack | Attack a nearby creature for 1d8+1 hit points. | Novice | 1 |
 
 ### Bows
 
@@ -151,6 +171,14 @@ Required Dexterity: 6
 | Title | Description | Rank | Action Cost |
 |---|---|---|---|
 | Standard Attack | Attack a creature you can see for 1d8 hit points. | Novice | 2 |
+
+### Slings
+
+Required Dexterity: 6
+
+| Title | Description | Rank | Action Cost |
+|---|---|---|---|
+| Standard Attack | Attack a creature you can see for 1d6 hit points. | Novice | 2 |
 
 ### Unarmed Combat
 
