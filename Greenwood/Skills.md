@@ -217,7 +217,7 @@ Unarmed Damage: If attacking with bare paws, your unarmed attacks deal 2 points 
 | Bob and Weave | Once per turn, focus on leaning your body to avoid attacks. Until the start of your next turn, attacks targeting you take a -4 penalty to the attack roll.  | Adept | 1 |
 | Uppercut | Three times per fight, if you make a successful Standard Attack with your first action, you can make another Standard Attack with your second action that deals an additional 2 damage. | Adept | 1 |
 | Counterpunch | Three times per fight, when a creature attacks you and misses, you can use Standard Attack or Haymaker with no action cost. Your attack roll automatically succeeds. | Expert | --- |
-| Iron Paw | Your paws are seasoned weapons. If attacking with bare paws, your unarmed attacks deal 1d4 + 3 points of damage. If you have the Natural Weapon trait, you unarmed attacks deal 1d4 + 4 points of damage. | Expert | 1 |
+| Iron Paw | Your paws are seasoned weapons. If attacking with bare paws, your unarmed attacks deal 1d4 + 3 points of damage. If you have the Natural Weapon trait, you unarmed attacks deal 1d4 + 4 points of damage. | Expert | --- |
 | The Noble Art | Once per day, choose an opponent you can see and challenge them to face you in unarmed combat. If they accept your challenge, no other creature may interfere with your fight. If they refuse your challenge, they receive -6 to attack rolls for the remainder of the day. | Expert | 1 |
 
 ---
