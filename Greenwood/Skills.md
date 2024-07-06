@@ -69,7 +69,7 @@ Required Dexterity: 6
 
 ### Clubs, Maces, Hammers
 
-Required Strength: 6
+Required Strength: 5
 
 | Title | Description | Rank | Action Cost |
 |---|---|---|---|
@@ -188,7 +188,7 @@ Required Dexterity: 6
 | Load Heavy Bolt | Load your crossbow with a heavy bolt that does 1d10 hit points of damage. | Adept | 1 |
 | Load Blunt Bolt | Load your crossbow with a blunt bolt that does 1d8 hit points of damage and stuns the target for 1 action when it hits. | Adept | 1 |
 | Load Serrated Bolt | Load your crossbow with a serrated bolt that does 1d8 hit points of damage. The target takes 8 points of damage at the end of its next turn. | Expert | 1 |
-| Calculated Shot | Attack a creature you can see for hit points determined by the loaded bolt. Add 2d4 to your attack roll. Your crossbow must be loaded before taking this action. | Novice | 2 |
+| Calculated Shot | Attack a creature you can see for hit points determined by the loaded bolt. Add 2d4 to your attack roll. Your crossbow must be loaded before taking this action. | Expert | 2 |
 
 ### Slings
 
@@ -283,6 +283,15 @@ Unarmed Damage: If attacking with bare paws, your unarmed attacks deal 2 points 
 
 You gain the ability to channel the power of a mythological figure. This could be a famous warrior, healer, or leader from history.
 
+**Novice Rank Requirements**\
+Required Wisdom: 6
+
+**Adept Rank Requirements**\
+Required Wisdom: 7
+
+**Expert Rank Requirements**\
+Required Wisdom: 8
+
 | Title | Description | Rank | Action Cost |
 |---|---|---|---|
 | Healer | Once per turn, you can request your patron's power to heal a creature you can see for 1d4 hit points. | Novice | 1 |
@@ -320,6 +329,15 @@ Some options could be:
   - Tiger
   - Whale
 
+**Novice Rank Requirements**\
+Required Wisdom: 6
+
+**Adept Rank Requirements**\
+Required Wisdom: 7
+
+**Expert Rank Requirements**\
+Required Wisdom: 8
+
 | Title | Description | Rank | Action Cost |
 |---|---|---|---|
 | Spirit Familiar | You gain a small creature or spirit thematically appropriate to your chosen spirit as a companion. | Novice | --- |
@@ -335,9 +353,62 @@ Some options could be:
 
 You are inspired by a fictional creature from a story. You can bring creatures or objects from your stories to life to assist you in battle. Outside of combat, you can tell stories about objects (weapons, armor, or other) to grant them a permanent magical effect.
 
+**Novice Rank Requirements**\
+Required Charisma: 6\
+Required Intelligence: 6
+
+**Adept Rank Requirements**\
+Required Charisma: 7\
+Required Intelligence: 6
+
+**Expert Rank Requirements**\
+Required Charisma: 8\
+Required Intelligence: 6
+
 | Title | Description | Rank | Action Cost |
 |---|---|---|---|
-|  |  | Novice | --- |
+| Summon Imaginary Creature | Once per fight, describe an Imaginary Creature into existence (see stats below). The Imaginary Creature disappears when it reaches 0 hit points, at the end of the fight, or after 30 minutes. You can spend 1 action to dismiss the creature. | Novice | 2 |
+| Spin Yarn |  | Novice | 1 |
+| Summon Storied Creature | Once per fight, describe a Storied Creature into existence (see stats below). The Storied Creature disappears when it reaches 0 hit points, at the end of the fight, or after 30 minutes. You can spend 1 action to dismiss the creature. | Adept | 2 |
+|  |  | Adept | 1 |
+| Summon Fabled Creature | Once per fight, describe a Fabled Creature into existence (see stats below). The Fabled Creature disappears when it reaches 0 hit points, at the end of the fight, or after 30 minutes. You can spend 1 action to dismiss the creature. | Expert | 2 |
+|  |  | Expert | 1 |
+
+
+**Summoned Creature Statistics**
+
+| Imaginary Creature |  |
+|---|---|
+| Untrained Combat | Choose a Combat Skill that the creature has the required attributes to use. The creature has no rank in the chosen Combat Skill, but can use the Standard Attack ability. |
+| Hit Points | 20 |
+| Constitution | 4 |
+| Strength | 5 |
+| Dexterity | 5 |
+| Charisma | 4 |
+| Intelligence | 4 |
+| Wisdom | 4 |
+
+| Storied Creature |  |
+|---|---|
+| Novice Combat | Choose a Combat Skill that the creature has the required attributes to use. The creature has Novice rank in the chosen Combat Skill. |
+| Hit Points | 28 |
+| Constitution | 7 |
+| Strength | 7 |
+| Dexterity | 7 |
+| Charisma | 4 |
+| Intelligence | 5 |
+| Wisdom | 5 |
+
+| Fabled Creature |  |
+|---|---|
+| Adept Combat | Choose a Combat Skill that the creature has the required attributes to use. The creature has Adept rank in the chosen Combat Skill. |
+| Hit Points | 40 |
+| Constitution | 10 |
+| Strength | 10 |
+| Dexterity | 10 |
+| Charisma | 4 |
+| Intelligence | 6 |
+| Wisdom | 6 |
 
 ### Fortuneteller
 - Buff allies
@@ -346,43 +417,233 @@ You are inspired by a fictional creature from a story. You can bring creatures o
 
 You pretend to (or perhaps, you can?) divine events that have yet to happen. Your keen insight can discern combat-related information about enemies. You can inspire allies by building up their confidence with predictions of good fortune. You can warn your allies of bad fortune ahead of time to increase their chances of avoiding danger.
 
+**Novice Rank Requirements**\
+Required Charisma: 6\
+Required Wisdom: 6
+
+**Adept Rank Requirements**\
+Required Charisma or Wisdom: 7
+
+**Expert Rank Requirements**\
+Required Charisma or Wisdom: 8
+
 | Title | Description | Rank | Action Cost |
 |---|---|---|---|
 |  |  | Novice | --- |
+|  |  | Novice | --- |
+|  |  | Adept | --- |
+|  |  | Adept | --- |
+|  |  | Expert | --- |
+|  |  | Expert | --- |
 
 ---
 
 ## Physical Skills 
+
 ### Climbing
+
+| Title | Description | Rank | Action Cost |
+|---|---|---|---|
+| Standard Climb Speed | 10 feet | Novice | 1 |
+| Improved Climb Speed | 20 feet | Adept | 1 |
+| Expert Climber | 30 feet | Expert | 1 |
+
 ### Digging
+
+| Title | Description | Rank | Action Cost |
+|---|---|---|---|
+| Standard Dig Speed | 5 feet | Novice | 1 |
+| Improved Dig Speed | 10 feet | Adept | 1 |
+| Expert Digger | 20 feet | Expert | 1 |
+
 ### Jumping
+
+| Title | Description | Rank | Action Cost |
+|---|---|---|---|
+| Standard Jump | 10 feet | Novice | 1 |
+| Improved Jump | 15 feet | Adept | 1 |
+| Expert Jumper | 20 feet | Expert | 1 |
+
 ### Lifting
+
+| Title | Description | Rank | Action Cost |
+|---|---|---|---|
+|  |  | Novice | --- |
+|  |  | Adept | --- |
+|  |  | Expert | --- |
+
 ### Perception
+
+| Title | Description | Rank | Action Cost |
+|---|---|---|---|
+|  |  | Novice | --- |
+|  |  | Adept | --- |
+|  |  | Expert | --- |
+
 ### Stealth
+
+| Title | Description | Rank | Action Cost |
+|---|---|---|---|
+|  |  | Novice | --- |
+|  |  | Adept | --- |
+|  |  | Expert | --- |
+
 ### Swimming
 
+| Title | Description | Rank | Action Cost |
+|---|---|---|---|
+| Standard Swim Speed | 20 feet | Novice | 1 |
+| Improved Swim Speed | 35 feet | Adept | 1 |
+| Expert Swimmer | 50 feet | Expert | 1 |
+
 ---
 
-## Social Skills 
+## Social Skills
+
 ### Bartering
+
+| Title | Description | Rank | Action Cost |
+|---|---|---|---|
+|  |  | Novice | --- |
+|  |  | Adept | --- |
+|  |  | Expert | --- |
+
 ### Conversation
+
+| Title | Description | Rank | Action Cost |
+|---|---|---|---|
+|  |  | Novice | --- |
+|  |  | Adept | --- |
+|  |  | Expert | --- |
+
 ### Courtly Manners
+
+| Title | Description | Rank | Action Cost |
+|---|---|---|---|
+|  |  | Novice | --- |
+|  |  | Adept | --- |
+|  |  | Expert | --- |
+
 ### Deception
+
+| Title | Description | Rank | Action Cost |
+|---|---|---|---|
+|  |  | Novice | --- |
+|  |  | Adept | --- |
+|  |  | Expert | --- |
+
 ### Insight
+
+| Title | Description | Rank | Action Cost |
+|---|---|---|---|
+|  |  | Novice | --- |
+|  |  | Adept | --- |
+|  |  | Expert | --- |
+
 ### Inspiration
+
+| Title | Description | Rank | Action Cost |
+|---|---|---|---|
+|  |  | Novice | --- |
+|  |  | Adept | --- |
+|  |  | Expert | --- |
+
 ### Intimidation
+
+| Title | Description | Rank | Action Cost |
+|---|---|---|---|
+|  |  | Novice | --- |
+|  |  | Adept | --- |
+|  |  | Expert | --- |
+
 ### Persuasion
 
+| Title | Description | Rank | Action Cost |
+|---|---|---|---|
+|  |  | Novice | --- |
+|  |  | Adept | --- |
+|  |  | Expert | --- |
+
 ---
 
-## Studied Skills 
+## Studied Skills
+
 ### Alchemy
+
+| Title | Description | Rank | Action Cost |
+|---|---|---|---|
+|  |  | Novice | --- |
+|  |  | Adept | --- |
+|  |  | Expert | --- |
+
 ### Engineering
+
+| Title | Description | Rank | Action Cost |
+|---|---|---|---|
+|  |  | Novice | --- |
+|  |  | Adept | --- |
+|  |  | Expert | --- |
+
 ### History
+
+| Title | Description | Rank | Action Cost |
+|---|---|---|---|
+|  |  | Novice | --- |
+|  |  | Adept | --- |
+|  |  | Expert | --- |
+
 ### Linguistics
+
+| Title | Description | Rank | Action Cost |
+|---|---|---|---|
+|  |  | Novice | --- |
+|  |  | Adept | --- |
+|  |  | Expert | --- |
+
 ### Lockpicking
+
+| Title | Description | Rank | Action Cost |
+|---|---|---|---|
+|  |  | Novice | --- |
+|  |  | Adept | --- |
+|  |  | Expert | --- |
+
 ### Logic
+
+| Title | Description | Rank | Action Cost |
+|---|---|---|---|
+|  |  | Novice | --- |
+|  |  | Adept | --- |
+|  |  | Expert | --- |
+
 ### Mathematics
+
+| Title | Description | Rank | Action Cost |
+|---|---|---|---|
+|  |  | Novice | --- |
+|  |  | Adept | --- |
+|  |  | Expert | --- |
+
 ### Medicine
+
+| Title | Description | Rank | Action Cost |
+|---|---|---|---|
+|  |  | Novice | --- |
+|  |  | Adept | --- |
+|  |  | Expert | --- |
+
 ### Nature
+
+| Title | Description | Rank | Action Cost |
+|---|---|---|---|
+|  |  | Novice | --- |
+|  |  | Adept | --- |
+|  |  | Expert | --- |
+
 ### Pickpocketing
+
+| Title | Description | Rank | Action Cost |
+|---|---|---|---|
+|  |  | Novice | --- |
+|  |  | Adept | --- |
+|  |  | Expert | --- |
