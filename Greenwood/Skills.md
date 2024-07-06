@@ -371,7 +371,7 @@ Required Intelligence: 6
 | Spin Yarn |  | Novice | 1 |
 | Summon Storied Creature | Once per fight, describe a Storied Creature into existence (see stats below). The Storied Creature disappears when it reaches 0 hit points, at the end of the fight, or after 30 minutes. You can spend 1 action to dismiss the creature. | Adept | 2 |
 |  |  | Adept | 1 |
-| Summon Fabled Creature | Once per fight, describe a Fabled Creature into existence (see stats below). The Fabled Creature disappears when it reaches 0 hit points, at the end of the fight, or after 30 minutes. You can spend 1 action to dismiss the creature. | Expert | 2 |
+| Summon Fabled Creature | Once per day, describe a Fabled Creature into existence (see stats below). The Fabled Creature disappears when it reaches 0 hit points, at the end of the fight, or after 30 minutes. You can spend 1 action to dismiss the creature. | Expert | 2 |
 |  |  | Expert | 1 |
 
 
