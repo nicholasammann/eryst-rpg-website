@@ -7,6 +7,9 @@ parent: Sunflower Meadow
 # Plot
 - Search for fishing gear
 - Arrival at islands
+- Stay at Holt Beryll
+- Travel to Holt Baleen
+- Ritual where otter blew the horn to summon the whale in some way
 
 
 # Characters

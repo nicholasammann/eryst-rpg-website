@@ -8,11 +8,12 @@ parent: Sunflower Meadow
 - Set sail
 - Skilly n' Duff
 - Storm (sail-handling game)
-- Combat
+- Combat (ship attacked by big octopus tentacles)
 
 # Huckleberry Sails
+
 | Sail Position | Sail Name | Equation Component |
-| --- |---|---|
+| --- | --- | --- |
 | Stern | Spanker | - |
 | Bottom Rear Mast | Crossjack | 3 |
 | Top Rear Mast | Mizzen Skysail | + |
@@ -29,41 +30,3 @@ parent: Sunflower Meadow
 # Characters
 Sergeant Marigold is an average-sized and lanky otter. She is the captain of the ship Huckleberry. She is sad and not confident when she is sober. When she drinks, she becomes very confident and even a bit pushy.
 
-20
-Stoke = 3 x
-Chomp = 5 +
-Sagi = 7 -
-Alf = 2
-
-12
-Alf = 5 + 
-Stoke = 3 +
-Chomp = 6 - 
-Sagi = 2
-
-35
-Sagi = 7 x
-Alf = 5 +
-Stoke = 2 -
-Chomp = 2
-
-
-Chomp 23
-Alf 13
-Octopus
-Stoke 10
-Sagi 4
-
-
-
-Tentacle 1: 0
-
-Tentacle 2: 0
-
-Tentacle 3: 0
-
-Tentacle 4: 0
-
-Tentacle 5: 0
-
-Tentacle 6: 0
