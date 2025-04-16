@@ -1,5 +1,5 @@
 ---
-title: Session 78
+title: Session 8
 layout: page
 parent: Sunflower Meadow
 ---

@@ -10,3 +10,4 @@ parent: Sunflower Meadow
 
 ![CityMap](/SwiftcurrentIslands.jpg)
 
+![CityMap](/Rosenrigg.jpg)
