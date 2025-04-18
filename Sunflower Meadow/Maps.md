@@ -4,10 +4,10 @@ layout: minimal
 parent: Sunflower Meadow
 ---
 
-![CityMap](/TheNorthernLands.jpg)
+![SunflowerMeadowWorld](./SunflowerMeadowWorld.jpg)
 
-![CityMap](/SunflowerMeadow.jpg)
+![SwiftcurrentIslands](./SwiftcurrentIslands.jpg)
 
-![CityMap](/SwiftcurrentIslands.jpg)
+![Rosenrigg](./Rosenrigg.jpg)
 
-![CityMap](/Rosenrigg.jpg)
+![RuinsOfBarstrigg](./RuinsOfBarstrigg.jpg)
