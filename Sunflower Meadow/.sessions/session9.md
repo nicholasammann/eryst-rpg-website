@@ -25,7 +25,9 @@ Return to Sunflower Meadow
 ## Going north to Rosenrigg
 
 ### Moonspruce Forest
-- Spiders
+- Met Lord Bernard
+  - Crow who is from the foothills on the north side of the mountains
+  - Has an injured wing that will take a higher level healing spell to heal (greater restoration?)
 
 ### Mountains (under or over)
 
