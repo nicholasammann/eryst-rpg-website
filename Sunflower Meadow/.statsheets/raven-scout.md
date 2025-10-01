@@ -10,10 +10,10 @@ STR DEX CON INT WIS CHA
 Skills Perception +4
 Senses passive Perception 14
 
-Keen Sight. The crow has advantage on Wisdom (Perception) checks that rely on sight.
+Keen Sight. The raven has advantage on Wisdom (Perception) checks that rely on sight.
 
 ACTIONS
-Multiattack. The crow makes two attacks, one with each wingblade.
+Multiattack. The raven makes two attacks, one with each wingblade.
 
 Wingblade. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) piercing damage.
 

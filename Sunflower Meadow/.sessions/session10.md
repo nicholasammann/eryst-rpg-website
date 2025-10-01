@@ -9,7 +9,7 @@ Making their way through the mountain pass with navigational help from Lord Bern
 
 ### 11
 Delivering Lord Bernard back to his home in the northern foothills of the mountains
-Maybe some crow kingdom/family plot stuff
+Maybe some raven kingdom/family plot stuff
 
 ### 12
 Traveling through the obsidian valley and arriving at Rosenrigg

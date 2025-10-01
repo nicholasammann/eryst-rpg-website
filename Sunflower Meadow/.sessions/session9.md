@@ -26,7 +26,7 @@ Return to Sunflower Meadow
 
 ### Moonspruce Forest
 - Met Lord Bernard
-  - Crow who is from the foothills on the north side of the mountains
+  - Raven who is from the foothills on the north side of the mountains
   - Has an injured wing that will take a higher level healing spell to heal (greater restoration?)
 
 ### Mountains (under or over)

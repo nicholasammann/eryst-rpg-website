@@ -66,7 +66,7 @@ Party needs to lift him up the rope
 sunlight stored in crystals at the base of the tower
 sunlight keeps the eggs warm
 
-two crow clerics are in the base of the tower watching over the eggs
+two raven clerics are in the base of the tower watching over the eggs
 
 Bernard has to go to the clerics
 

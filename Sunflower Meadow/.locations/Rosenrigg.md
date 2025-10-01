@@ -36,7 +36,7 @@ Forum of the Moon. A pavilion for debate, meetings, university assemblies
 
 An observatory for stargazing and astronomical study. A star-shaped structure above a landscaped rhombus of greenery.
 
-#### Sulphur Falls
+#### Amber Font
 
 A waterfall of boiling geothermal water from a spring underneath the Foro Della Luna. It cascades over the outer edge of the crater and feeds into the Boiling River far 
 
