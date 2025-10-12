@@ -6,34 +6,18 @@ parent: Sunflower Meadow
 
 # Plot Outline
 
+Combat with meteor elemental
 
-Find two documents in the headmaster's quarters
-
-
-
-----------------------------
-
-Historical document leads to Barstrigg
-
-Celeduin was the 3rd sibling
-Celestial god of the stars
+20 Meteor Elementals
+16 Angela
+15 Sagi, Alf
+7 Chomp
+5 Stoke
 
 
-Barstrigg tells the story of Celeduin's demise
-- Reveals the existence of Ninguin in the northern mountains
-- A meteor nearly struck the area, Celeduin had to face it alone because Obsiduin and Ninguin could not work together
-- Celeduin died to protect the town
+Red: 160-22=138-15=123-8=115-56=59-13=46-9=37
+-11x2(thunder)
 
-----------------------------
-
-Barstrigg holds the remnants of an ancient library
-
-Baqui (headmaster of the school) went searching for an old spell to locate Soliduin
-
-They found most of the spell and tried to cast it
-
-The spell went awry and created a portal in time/space, teleporting 
-
-
-
-
+Blue: 160-72=88-7=81-4=77-12=65-12=63-10=53-17=36-4=32-4=28-2=26-3=23-14=9-8=1-13=0000
+-36x2(thunder)
+disadvantage next attack
